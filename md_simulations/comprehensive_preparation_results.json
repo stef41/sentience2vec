@@ -1,0 +1,1741 @@
+{
+  "receptors": {
+    "5-HT1A": {
+      "pdb_id": "7E2Y",
+      "chain": "A",
+      "resolution": 3.0,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 2.4
+    },
+    "5-HT2A": {
+      "pdb_id": "6WHA",
+      "chain": "A",
+      "resolution": 3.4,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 3.7
+    },
+    "5-HT2B": {
+      "pdb_id": "5TVN",
+      "chain": "A",
+      "resolution": 2.9,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 3.0
+    },
+    "5-HT2C": {
+      "pdb_id": "6BQG",
+      "chain": "A",
+      "resolution": 3.0,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 4.7
+    },
+    "D1": {
+      "pdb_id": "7JVP",
+      "chain": "A",
+      "resolution": 3.2,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 2.6
+    },
+    "D2": {
+      "pdb_id": "6CM4",
+      "chain": "A",
+      "resolution": 2.87,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 2.8
+    },
+    "D3": {
+      "pdb_id": "3PBL",
+      "chain": "A",
+      "resolution": 2.89,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 5.5
+    },
+    "MOR": {
+      "pdb_id": "5C1M",
+      "chain": "A",
+      "resolution": 2.1,
+      "species": "mouse",
+      "prepared": true,
+      "file_size_mb": 6.7
+    },
+    "KOR": {
+      "pdb_id": "4DJH",
+      "chain": "A",
+      "resolution": 2.9,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 6.0
+    },
+    "DOR": {
+      "pdb_id": "4N6H",
+      "chain": "A",
+      "resolution": 1.8,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 6.0
+    },
+    "CB1": {
+      "pdb_id": "5TGZ",
+      "chain": "A",
+      "resolution": 2.8,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 3.7
+    },
+    "NMDA_GluN2A": {
+      "pdb_id": "7EU7",
+      "chain": "A",
+      "resolution": 3.2,
+      "species": "human/rat",
+      "prepared": true,
+      "file_size_mb": 3.1
+    },
+    "NMDA_GluN2B": {
+      "pdb_id": "7SAD",
+      "chain": "B",
+      "resolution": 2.8,
+      "species": "rat",
+      "prepared": true,
+      "file_size_mb": 2.9
+    },
+    "AMPA_GluA1": {
+      "pdb_id": "5WEO",
+      "chain": "A",
+      "resolution": 3.4,
+      "species": "rat",
+      "prepared": true,
+      "file_size_mb": 73.4
+    },
+    "GABA_A_alpha1": {
+      "pdb_id": "6HUP",
+      "chain": "A",
+      "resolution": 3.1,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 18.7
+    },
+    "GABA_A_alpha2": {
+      "pdb_id": "6X3T",
+      "chain": "A",
+      "resolution": 3.2,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 16.1
+    },
+    "M1_muscarinic": {
+      "pdb_id": "6OIJ",
+      "chain": "A",
+      "resolution": 3.0,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 2.4
+    },
+    "alpha2A": {
+      "pdb_id": "6KUX",
+      "chain": "A",
+      "resolution": 2.9,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 1.4
+    },
+    "nAChR_alpha4beta2": {
+      "pdb_id": "6CNJ",
+      "chain": "A",
+      "resolution": 3.9,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 23.0
+    },
+    "Sigma1": {
+      "pdb_id": "5HK1",
+      "chain": "A",
+      "resolution": 2.5,
+      "species": "human",
+      "prepared": true,
+      "file_size_mb": 5.0
+    }
+  },
+  "ligands": {
+    "LSD": {
+      "class": "lysergamide",
+      "targets": [
+        "5-HT2A",
+        "5-HT2B",
+        "5-HT2C",
+        "5-HT1A",
+        "D2"
+      ],
+      "prepared": true
+    },
+    "psilocin": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2B",
+        "5-HT2C",
+        "5-HT1A"
+      ],
+      "prepared": true
+    },
+    "psilocybin": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2B",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "DMT": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C",
+        "Sigma1"
+      ],
+      "prepared": true
+    },
+    "5-MeO-DMT": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT1A",
+        "Sigma1"
+      ],
+      "prepared": true
+    },
+    "bufotenin": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "DPT": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT1A"
+      ],
+      "prepared": true
+    },
+    "DiPT": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A"
+      ],
+      "prepared": true
+    },
+    "4-AcO-DMT": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "4-HO-MET": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "4-HO-MiPT": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "4-AcO-MET": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "5-MeO-MiPT": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT1A"
+      ],
+      "prepared": true
+    },
+    "5-MeO-DiPT": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT1A"
+      ],
+      "prepared": true
+    },
+    "AMT": {
+      "class": "tryptamine",
+      "targets": [
+        "5-HT2A",
+        "SERT",
+        "MAO"
+      ],
+      "prepared": true
+    },
+    "1P-LSD": {
+      "class": "lysergamide",
+      "targets": [
+        "5-HT2A",
+        "5-HT2B",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "AL-LAD": {
+      "class": "lysergamide",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "ETH-LAD": {
+      "class": "lysergamide",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "LSA": {
+      "class": "lysergamide",
+      "targets": [
+        "5-HT2A",
+        "D2"
+      ],
+      "prepared": true
+    },
+    "ALD-52": {
+      "class": "lysergamide",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "mescaline": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2B",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "escaline": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "proscaline": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "2C-B": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2B",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "2C-E": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "2C-I": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "2C-C": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "2C-P": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "2C-T-2": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "2C-T-7": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "2C-D": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "DOC": {
+      "class": "amphetamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "DOM": {
+      "class": "amphetamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "DOI": {
+      "class": "amphetamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "DOB": {
+      "class": "amphetamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "25I-NBOMe": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "25C-NBOMe": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "25B-NBOMe": {
+      "class": "phenethylamine",
+      "targets": [
+        "5-HT2A",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "ketamine": {
+      "class": "arylcyclohexylamine",
+      "targets": [
+        "NMDA_GluN2A",
+        "NMDA_GluN2B",
+        "Sigma1",
+        "MOR",
+        "D2"
+      ],
+      "prepared": true
+    },
+    "PCP": {
+      "class": "arylcyclohexylamine",
+      "targets": [
+        "NMDA_GluN2A",
+        "NMDA_GluN2B",
+        "Sigma1",
+        "D2"
+      ],
+      "prepared": true
+    },
+    "MXE": {
+      "class": "arylcyclohexylamine",
+      "targets": [
+        "NMDA_GluN2A",
+        "NMDA_GluN2B",
+        "Sigma1"
+      ],
+      "prepared": true
+    },
+    "3-MeO-PCP": {
+      "class": "arylcyclohexylamine",
+      "targets": [
+        "NMDA_GluN2A",
+        "Sigma1",
+        "MOR"
+      ],
+      "prepared": true
+    },
+    "3-HO-PCP": {
+      "class": "arylcyclohexylamine",
+      "targets": [
+        "NMDA_GluN2A",
+        "MOR",
+        "Sigma1"
+      ],
+      "prepared": true
+    },
+    "3-MeO-PCE": {
+      "class": "arylcyclohexylamine",
+      "targets": [
+        "NMDA_GluN2A",
+        "Sigma1"
+      ],
+      "prepared": true
+    },
+    "DCK": {
+      "class": "arylcyclohexylamine",
+      "targets": [
+        "NMDA_GluN2A",
+        "NMDA_GluN2B"
+      ],
+      "prepared": true
+    },
+    "2-FDCK": {
+      "class": "arylcyclohexylamine",
+      "targets": [
+        "NMDA_GluN2A",
+        "NMDA_GluN2B"
+      ],
+      "prepared": true
+    },
+    "O-PCE": {
+      "class": "arylcyclohexylamine",
+      "targets": [
+        "NMDA_GluN2A",
+        "Sigma1"
+      ],
+      "prepared": true
+    },
+    "DXM": {
+      "class": "morphinan",
+      "targets": [
+        "NMDA_GluN2A",
+        "Sigma1",
+        "SERT"
+      ],
+      "prepared": true
+    },
+    "nitrous_oxide": {
+      "class": "gas",
+      "targets": [
+        "NMDA_GluN2A",
+        "GABA_A_alpha1"
+      ],
+      "prepared": true
+    },
+    "memantine": {
+      "class": "adamantane",
+      "targets": [
+        "NMDA_GluN2A",
+        "Sigma1"
+      ],
+      "prepared": true
+    },
+    "MDMA": {
+      "class": "amphetamine",
+      "targets": [
+        "SERT",
+        "5-HT2A",
+        "5-HT2B",
+        "D2"
+      ],
+      "prepared": true
+    },
+    "MDA": {
+      "class": "amphetamine",
+      "targets": [
+        "SERT",
+        "5-HT2A",
+        "5-HT2B"
+      ],
+      "prepared": true
+    },
+    "6-APB": {
+      "class": "benzofuran",
+      "targets": [
+        "SERT",
+        "5-HT2A",
+        "5-HT2B"
+      ],
+      "prepared": true
+    },
+    "5-MAPB": {
+      "class": "benzofuran",
+      "targets": [
+        "SERT",
+        "5-HT2B"
+      ],
+      "prepared": true
+    },
+    "methylone": {
+      "class": "cathinone",
+      "targets": [
+        "SERT",
+        "DAT",
+        "NET"
+      ],
+      "prepared": true
+    },
+    "THC": {
+      "class": "cannabinoid",
+      "targets": [
+        "CB1"
+      ],
+      "prepared": true
+    },
+    "CBD": {
+      "class": "cannabinoid",
+      "targets": [
+        "CB1",
+        "5-HT1A"
+      ],
+      "prepared": true
+    },
+    "delta8_THC": {
+      "class": "cannabinoid",
+      "targets": [
+        "CB1"
+      ],
+      "prepared": true
+    },
+    "salvinorin_A": {
+      "class": "terpenoid",
+      "targets": [
+        "KOR"
+      ],
+      "prepared": true
+    },
+    "scopolamine": {
+      "class": "tropane",
+      "targets": [
+        "M1_muscarinic"
+      ],
+      "prepared": true
+    },
+    "atropine": {
+      "class": "tropane",
+      "targets": [
+        "M1_muscarinic"
+      ],
+      "prepared": true
+    },
+    "diphenhydramine": {
+      "class": "antihistamine",
+      "targets": [
+        "M1_muscarinic",
+        "H1"
+      ],
+      "prepared": true
+    },
+    "amphetamine": {
+      "class": "amphetamine",
+      "targets": [
+        "DAT",
+        "NET",
+        "D1",
+        "D2"
+      ],
+      "prepared": true
+    },
+    "methamphetamine": {
+      "class": "amphetamine",
+      "targets": [
+        "DAT",
+        "NET",
+        "D1",
+        "D2"
+      ],
+      "prepared": true
+    },
+    "cocaine": {
+      "class": "tropane",
+      "targets": [
+        "DAT",
+        "NET",
+        "SERT"
+      ],
+      "prepared": true
+    },
+    "caffeine": {
+      "class": "xanthine",
+      "targets": [
+        "A1",
+        "A2A"
+      ],
+      "prepared": true
+    },
+    "nicotine": {
+      "class": "pyridine",
+      "targets": [
+        "nAChR_alpha4beta2"
+      ],
+      "prepared": true
+    },
+    "modafinil": {
+      "class": "benzhydryl",
+      "targets": [
+        "DAT",
+        "D2"
+      ],
+      "prepared": true
+    },
+    "morphine": {
+      "class": "opioid",
+      "targets": [
+        "MOR",
+        "KOR",
+        "DOR"
+      ],
+      "prepared": true
+    },
+    "heroin": {
+      "class": "opioid",
+      "targets": [
+        "MOR",
+        "KOR",
+        "DOR"
+      ],
+      "prepared": true
+    },
+    "oxycodone": {
+      "class": "opioid",
+      "targets": [
+        "MOR",
+        "KOR"
+      ],
+      "prepared": true
+    },
+    "fentanyl": {
+      "class": "opioid",
+      "targets": [
+        "MOR"
+      ],
+      "prepared": true
+    },
+    "kratom_mitragynine": {
+      "class": "indole",
+      "targets": [
+        "MOR",
+        "KOR",
+        "DOR",
+        "alpha2A"
+      ],
+      "prepared": true
+    },
+    "buprenorphine": {
+      "class": "opioid",
+      "targets": [
+        "MOR",
+        "KOR",
+        "DOR"
+      ],
+      "prepared": true
+    },
+    "GHB": {
+      "class": "fatty_acid",
+      "targets": [
+        "GABA_A_alpha1",
+        "GABA_A_alpha2",
+        "GHB_receptor"
+      ],
+      "prepared": true
+    },
+    "phenibut": {
+      "class": "gaba_analog",
+      "targets": [
+        "GABA_A_alpha1",
+        "GABA_A_alpha2"
+      ],
+      "prepared": true
+    },
+    "alprazolam": {
+      "class": "benzodiazepine",
+      "targets": [
+        "GABA_A_alpha1",
+        "GABA_A_alpha2"
+      ],
+      "prepared": true
+    },
+    "diazepam": {
+      "class": "benzodiazepine",
+      "targets": [
+        "GABA_A_alpha1",
+        "GABA_A_alpha2"
+      ],
+      "prepared": true
+    },
+    "clonazepam": {
+      "class": "benzodiazepine",
+      "targets": [
+        "GABA_A_alpha1",
+        "GABA_A_alpha2"
+      ],
+      "prepared": true
+    },
+    "lorazepam": {
+      "class": "benzodiazepine",
+      "targets": [
+        "GABA_A_alpha1",
+        "GABA_A_alpha2"
+      ],
+      "prepared": true
+    },
+    "etizolam": {
+      "class": "thienodiazepine",
+      "targets": [
+        "GABA_A_alpha1"
+      ],
+      "prepared": true
+    },
+    "zolpidem": {
+      "class": "imidazopyridine",
+      "targets": [
+        "GABA_A_alpha1"
+      ],
+      "prepared": true
+    },
+    "ibogaine": {
+      "class": "indole",
+      "targets": [
+        "NMDA_GluN2A",
+        "Sigma1",
+        "KOR",
+        "SERT"
+      ],
+      "prepared": true
+    },
+    "muscimol": {
+      "class": "isoxazole",
+      "targets": [
+        "GABA_A_alpha1",
+        "GABA_A_alpha2"
+      ],
+      "prepared": true
+    },
+    "ibotenic_acid": {
+      "class": "isoxazole",
+      "targets": [
+        "NMDA_GluN2A",
+        "AMPA_GluA1"
+      ],
+      "prepared": true
+    },
+    "serotonin": {
+      "class": "neurotransmitter",
+      "targets": [
+        "5-HT1A",
+        "5-HT2A",
+        "5-HT2B",
+        "5-HT2C"
+      ],
+      "prepared": true
+    },
+    "dopamine": {
+      "class": "neurotransmitter",
+      "targets": [
+        "D1",
+        "D2",
+        "D3"
+      ],
+      "prepared": true
+    },
+    "norepinephrine": {
+      "class": "neurotransmitter",
+      "targets": [
+        "alpha2A"
+      ],
+      "prepared": true
+    },
+    "GABA": {
+      "class": "neurotransmitter",
+      "targets": [
+        "GABA_A_alpha1",
+        "GABA_A_alpha2"
+      ],
+      "prepared": true
+    },
+    "glutamate": {
+      "class": "neurotransmitter",
+      "targets": [
+        "NMDA_GluN2A",
+        "NMDA_GluN2B",
+        "AMPA_GluA1"
+      ],
+      "prepared": true
+    },
+    "acetylcholine": {
+      "class": "neurotransmitter",
+      "targets": [
+        "M1_muscarinic",
+        "nAChR_alpha4beta2"
+      ],
+      "prepared": true
+    }
+  },
+  "receptor_ligand_pairs": [
+    {
+      "receptor": "5-HT1A",
+      "ligand": "LSD"
+    },
+    {
+      "receptor": "5-HT1A",
+      "ligand": "psilocin"
+    },
+    {
+      "receptor": "5-HT1A",
+      "ligand": "5-MeO-DMT"
+    },
+    {
+      "receptor": "5-HT1A",
+      "ligand": "DPT"
+    },
+    {
+      "receptor": "5-HT1A",
+      "ligand": "5-MeO-MiPT"
+    },
+    {
+      "receptor": "5-HT1A",
+      "ligand": "5-MeO-DiPT"
+    },
+    {
+      "receptor": "5-HT1A",
+      "ligand": "CBD"
+    },
+    {
+      "receptor": "5-HT1A",
+      "ligand": "serotonin"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "LSD"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "psilocin"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "psilocybin"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "DMT"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "5-MeO-DMT"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "bufotenin"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "DPT"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "DiPT"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "4-AcO-DMT"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "4-HO-MET"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "4-HO-MiPT"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "4-AcO-MET"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "5-MeO-MiPT"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "5-MeO-DiPT"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "AMT"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "1P-LSD"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "AL-LAD"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "ETH-LAD"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "LSA"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "ALD-52"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "mescaline"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "escaline"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "proscaline"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "2C-B"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "2C-E"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "2C-I"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "2C-C"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "2C-P"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "2C-T-2"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "2C-T-7"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "2C-D"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "DOC"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "DOM"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "DOI"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "DOB"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "25I-NBOMe"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "25C-NBOMe"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "25B-NBOMe"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "MDMA"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "MDA"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "6-APB"
+    },
+    {
+      "receptor": "5-HT2A",
+      "ligand": "serotonin"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "LSD"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "psilocin"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "psilocybin"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "1P-LSD"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "mescaline"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "2C-B"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "MDMA"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "MDA"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "6-APB"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "5-MAPB"
+    },
+    {
+      "receptor": "5-HT2B",
+      "ligand": "serotonin"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "LSD"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "psilocin"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "psilocybin"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "DMT"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "bufotenin"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "4-AcO-DMT"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "4-HO-MET"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "4-HO-MiPT"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "4-AcO-MET"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "1P-LSD"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "AL-LAD"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "ETH-LAD"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "ALD-52"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "mescaline"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "escaline"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "proscaline"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "2C-B"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "2C-E"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "2C-I"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "2C-C"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "2C-P"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "2C-T-2"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "2C-T-7"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "2C-D"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "DOC"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "DOM"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "DOI"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "DOB"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "25I-NBOMe"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "25C-NBOMe"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "25B-NBOMe"
+    },
+    {
+      "receptor": "5-HT2C",
+      "ligand": "serotonin"
+    },
+    {
+      "receptor": "D1",
+      "ligand": "amphetamine"
+    },
+    {
+      "receptor": "D1",
+      "ligand": "methamphetamine"
+    },
+    {
+      "receptor": "D1",
+      "ligand": "dopamine"
+    },
+    {
+      "receptor": "D2",
+      "ligand": "LSD"
+    },
+    {
+      "receptor": "D2",
+      "ligand": "LSA"
+    },
+    {
+      "receptor": "D2",
+      "ligand": "ketamine"
+    },
+    {
+      "receptor": "D2",
+      "ligand": "PCP"
+    },
+    {
+      "receptor": "D2",
+      "ligand": "MDMA"
+    },
+    {
+      "receptor": "D2",
+      "ligand": "amphetamine"
+    },
+    {
+      "receptor": "D2",
+      "ligand": "methamphetamine"
+    },
+    {
+      "receptor": "D2",
+      "ligand": "modafinil"
+    },
+    {
+      "receptor": "D2",
+      "ligand": "dopamine"
+    },
+    {
+      "receptor": "D3",
+      "ligand": "dopamine"
+    },
+    {
+      "receptor": "MOR",
+      "ligand": "ketamine"
+    },
+    {
+      "receptor": "MOR",
+      "ligand": "3-MeO-PCP"
+    },
+    {
+      "receptor": "MOR",
+      "ligand": "3-HO-PCP"
+    },
+    {
+      "receptor": "MOR",
+      "ligand": "morphine"
+    },
+    {
+      "receptor": "MOR",
+      "ligand": "heroin"
+    },
+    {
+      "receptor": "MOR",
+      "ligand": "oxycodone"
+    },
+    {
+      "receptor": "MOR",
+      "ligand": "fentanyl"
+    },
+    {
+      "receptor": "MOR",
+      "ligand": "kratom_mitragynine"
+    },
+    {
+      "receptor": "MOR",
+      "ligand": "buprenorphine"
+    },
+    {
+      "receptor": "KOR",
+      "ligand": "salvinorin_A"
+    },
+    {
+      "receptor": "KOR",
+      "ligand": "morphine"
+    },
+    {
+      "receptor": "KOR",
+      "ligand": "heroin"
+    },
+    {
+      "receptor": "KOR",
+      "ligand": "oxycodone"
+    },
+    {
+      "receptor": "KOR",
+      "ligand": "kratom_mitragynine"
+    },
+    {
+      "receptor": "KOR",
+      "ligand": "buprenorphine"
+    },
+    {
+      "receptor": "KOR",
+      "ligand": "ibogaine"
+    },
+    {
+      "receptor": "DOR",
+      "ligand": "morphine"
+    },
+    {
+      "receptor": "DOR",
+      "ligand": "heroin"
+    },
+    {
+      "receptor": "DOR",
+      "ligand": "kratom_mitragynine"
+    },
+    {
+      "receptor": "DOR",
+      "ligand": "buprenorphine"
+    },
+    {
+      "receptor": "CB1",
+      "ligand": "THC"
+    },
+    {
+      "receptor": "CB1",
+      "ligand": "CBD"
+    },
+    {
+      "receptor": "CB1",
+      "ligand": "delta8_THC"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "ketamine"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "PCP"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "MXE"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "3-MeO-PCP"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "3-HO-PCP"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "3-MeO-PCE"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "DCK"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "2-FDCK"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "O-PCE"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "DXM"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "nitrous_oxide"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "memantine"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "ibogaine"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "ibotenic_acid"
+    },
+    {
+      "receptor": "NMDA_GluN2A",
+      "ligand": "glutamate"
+    },
+    {
+      "receptor": "NMDA_GluN2B",
+      "ligand": "ketamine"
+    },
+    {
+      "receptor": "NMDA_GluN2B",
+      "ligand": "PCP"
+    },
+    {
+      "receptor": "NMDA_GluN2B",
+      "ligand": "MXE"
+    },
+    {
+      "receptor": "NMDA_GluN2B",
+      "ligand": "DCK"
+    },
+    {
+      "receptor": "NMDA_GluN2B",
+      "ligand": "2-FDCK"
+    },
+    {
+      "receptor": "NMDA_GluN2B",
+      "ligand": "glutamate"
+    },
+    {
+      "receptor": "AMPA_GluA1",
+      "ligand": "ibotenic_acid"
+    },
+    {
+      "receptor": "AMPA_GluA1",
+      "ligand": "glutamate"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "nitrous_oxide"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "GHB"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "phenibut"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "alprazolam"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "diazepam"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "clonazepam"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "lorazepam"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "etizolam"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "zolpidem"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "muscimol"
+    },
+    {
+      "receptor": "GABA_A_alpha1",
+      "ligand": "GABA"
+    },
+    {
+      "receptor": "GABA_A_alpha2",
+      "ligand": "GHB"
+    },
+    {
+      "receptor": "GABA_A_alpha2",
+      "ligand": "phenibut"
+    },
+    {
+      "receptor": "GABA_A_alpha2",
+      "ligand": "alprazolam"
+    },
+    {
+      "receptor": "GABA_A_alpha2",
+      "ligand": "diazepam"
+    },
+    {
+      "receptor": "GABA_A_alpha2",
+      "ligand": "clonazepam"
+    },
+    {
+      "receptor": "GABA_A_alpha2",
+      "ligand": "lorazepam"
+    },
+    {
+      "receptor": "GABA_A_alpha2",
+      "ligand": "muscimol"
+    },
+    {
+      "receptor": "GABA_A_alpha2",
+      "ligand": "GABA"
+    },
+    {
+      "receptor": "M1_muscarinic",
+      "ligand": "scopolamine"
+    },
+    {
+      "receptor": "M1_muscarinic",
+      "ligand": "atropine"
+    },
+    {
+      "receptor": "M1_muscarinic",
+      "ligand": "diphenhydramine"
+    },
+    {
+      "receptor": "M1_muscarinic",
+      "ligand": "acetylcholine"
+    },
+    {
+      "receptor": "alpha2A",
+      "ligand": "kratom_mitragynine"
+    },
+    {
+      "receptor": "alpha2A",
+      "ligand": "norepinephrine"
+    },
+    {
+      "receptor": "nAChR_alpha4beta2",
+      "ligand": "nicotine"
+    },
+    {
+      "receptor": "nAChR_alpha4beta2",
+      "ligand": "acetylcholine"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "DMT"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "5-MeO-DMT"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "ketamine"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "PCP"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "MXE"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "3-MeO-PCP"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "3-HO-PCP"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "3-MeO-PCE"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "O-PCE"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "DXM"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "memantine"
+    },
+    {
+      "receptor": "Sigma1",
+      "ligand": "ibogaine"
+    }
+  ],
+  "summary": {
+    "total_receptors": 20,
+    "receptors_prepared": 20,
+    "total_ligands": 91,
+    "ligands_prepared": 91,
+    "total_receptor_ligand_pairs": 191,
+    "receptor_families": {
+      "Serotonin": [
+        "5-HT1A",
+        "5-HT2A",
+        "5-HT2B",
+        "5-HT2C"
+      ],
+      "Dopamine": [
+        "D1",
+        "D2",
+        "D3"
+      ],
+      "Opioid": [
+        "MOR",
+        "KOR",
+        "DOR"
+      ],
+      "Cannabinoid": [
+        "CB1"
+      ],
+      "Glutamate": [
+        "NMDA_GluN2A",
+        "NMDA_GluN2B",
+        "AMPA_GluA1"
+      ],
+      "GABA": [
+        "GABA_A_alpha1",
+        "GABA_A_alpha2"
+      ],
+      "Muscarinic": [
+        "M1_muscarinic"
+      ],
+      "Adrenergic": [
+        "alpha2A"
+      ],
+      "Nicotinic": [
+        "nAChR_alpha4beta2"
+      ],
+      "Sigma": [
+        "Sigma1"
+      ]
+    }
+  }
+}

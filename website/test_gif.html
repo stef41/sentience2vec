@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GIF Test</title>
+    <style>
+        body { background: #1a1a2e; color: white; font-family: Arial; padding: 20px; }
+        img { max-width: 400px; border: 2px solid #4ecdc4; }
+        .gif-selector { display: flex; gap: 10px; flex-wrap: wrap; margin: 20px 0; }
+        .gif-btn { padding: 8px 16px; background: #2a2a4e; border: 1px solid #4ecdc4; color: white; cursor: pointer; }
+        .gif-btn:hover { background: #4ecdc4; color: black; }
+        #status { color: #4ecdc4; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <h1>GIF Animation Test</h1>
+    <div id="status">Loading...</div>
+    <div class="gif-selector" id="selector"></div>
+    <div>
+        <img id="gif-display" src="" alt="Loading GIF...">
+        <p id="gif-info"></p>
+    </div>
+
+    <script src="gif_index.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const status = document.getElementById('status');
+            const selector = document.getElementById('selector');
+            const display = document.getElementById('gif-display');
+            const info = document.getElementById('gif-info');
+            
+            // Check if GIF_INDEX loaded
+            if (typeof GIF_INDEX === 'undefined') {
+                status.textContent = 'ERROR: GIF_INDEX not loaded!';
+                status.style.color = 'red';
+                return;
+            }
+            
+            const drugCount = Object.keys(GIF_INDEX).length;
+            status.textContent = `GIF_INDEX loaded with ${drugCount} drugs`;
+            
+            // Test with DMT
+            const testDrug = 'DMT';
+            if (GIF_INDEX[testDrug]) {
+                const gifs = GIF_INDEX[testDrug];
+                status.textContent += ` | ${testDrug} has ${gifs.length} GIFs`;
+                
+                // Create buttons for each receptor
+                gifs.forEach((g, i) => {
+                    const btn = document.createElement('button');
+                    btn.className = 'gif-btn';
+                    btn.textContent = g.receptor;
+                    btn.onclick = function() {
+                        const gifPath = 'animations/' + g.file;
+                        display.src = gifPath;
+                        info.textContent = `${g.receptor} - ${g.file}`;
+                    };
+                    selector.appendChild(btn);
+                    
+                    // Load first one
+                    if (i === 0) {
+                        display.src = 'animations/' + g.file;
+                        info.textContent = `${g.receptor} - ${g.file}`;
+                    }
+                });
+            } else {
+                status.textContent += ' | DMT not found in index!';
+                status.style.color = 'orange';
+            }
+        });
+    </script>
+</body>
+</html>

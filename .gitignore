@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+*.egg-info/
+
+# Large data files - keep in separate storage
+*.pdb
+*.cif
+*.xtc
+*.trr
+*.dcd
+*.gro
+*.xyz
+
+# Generated files
+*.log
+*.tmp
+
+# MD simulation outputs (large)
+md_simulations/all_pairs_results/*/
+md_simulations/batch_results/
+md_simulations/docking_results/
+md_simulations/pipeline_results/
+md_simulations/prepared_structures/
+md_simulations/prepared_receptors/
+md_simulations/prepared_receptors_full/
+md_simulations/receptors_full/
+md_simulations/structures/
+md_simulations/alphafold_structures/
+md_simulations/ligands/
+md_simulations/ligands_full/
+md_simulations/test_simulation/
+
+# GIFs are too large for GitHub - serve from external CDN or local
+website/animations/
+md_simulations/all_pairs_results/gifs/
+
+# Data files (large)
+data/raw/
+data/chemical_identifiers/
+data/receptor_densities/
+
+# Molecule generator outputs
+molecule_generator/sota_test/
+molecule_generator/generated_molecules/
+molecule_generator/*.sdf
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

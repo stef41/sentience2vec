@@ -1,0 +1,4711 @@
+{
+  "nodes": [
+    {
+      "id": "receptor:5_ht1a",
+      "node_type": "receptor",
+      "name": "5-HT1A",
+      "receptor_type": null,
+      "neurotransmitter": "Gi/o_coupled_inhibitory"
+    },
+    {
+      "id": "brain_region:dorsal_raphe_nucleus",
+      "node_type": "brain_region",
+      "name": "dorsal_raphe_nucleus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:median_raphe_nucleus",
+      "node_type": "brain_region",
+      "name": "median_raphe_nucleus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hippocampus_ca1",
+      "node_type": "brain_region",
+      "name": "hippocampus_CA1",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hippocampus_dentate_gyrus",
+      "node_type": "brain_region",
+      "name": "hippocampus_dentate_gyrus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:entorhinal_cortex_layer_ii",
+      "node_type": "brain_region",
+      "name": "entorhinal_cortex_layer_II",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:septum_lateral",
+      "node_type": "brain_region",
+      "name": "septum_lateral",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:amygdala_basolateral",
+      "node_type": "brain_region",
+      "name": "amygdala_basolateral",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:prefrontal_cortex_layer_ii",
+      "node_type": "brain_region",
+      "name": "prefrontal_cortex_layer_II",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:anterior_cingulate_cortex",
+      "node_type": "brain_region",
+      "name": "anterior_cingulate_cortex",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:temporal_cortex",
+      "node_type": "brain_region",
+      "name": "temporal_cortex",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hypothalamus_paraventricular",
+      "node_type": "brain_region",
+      "name": "hypothalamus_paraventricular",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:striatum",
+      "node_type": "brain_region",
+      "name": "striatum",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:cerebellum",
+      "node_type": "brain_region",
+      "name": "cerebellum",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:thalamus",
+      "node_type": "brain_region",
+      "name": "thalamus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:anxiolysis",
+      "node_type": "effect",
+      "name": "anxiolysis",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:introspection",
+      "node_type": "effect",
+      "name": "introspection",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:mood_elevation",
+      "node_type": "effect",
+      "name": "mood_elevation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:sexual_dysfunction",
+      "node_type": "effect",
+      "name": "sexual_dysfunction",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:5_ht2a",
+      "node_type": "receptor",
+      "name": "5-HT2A",
+      "receptor_type": null,
+      "neurotransmitter": "Gq_coupled_excitatory"
+    },
+    {
+      "id": "brain_region:prefrontal_cortex_layer_v",
+      "node_type": "brain_region",
+      "name": "prefrontal_cortex_layer_V",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:anterior_cingulate_ba24",
+      "node_type": "brain_region",
+      "name": "anterior_cingulate_BA24",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:posterior_cingulate_ba23",
+      "node_type": "brain_region",
+      "name": "posterior_cingulate_BA23",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:claustrum",
+      "node_type": "brain_region",
+      "name": "claustrum",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:visual_cortex_v1_layer_iv",
+      "node_type": "brain_region",
+      "name": "visual_cortex_V1_layer_IV",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:visual_cortex_v2",
+      "node_type": "brain_region",
+      "name": "visual_cortex_V2",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:temporal_cortex_ba21",
+      "node_type": "brain_region",
+      "name": "temporal_cortex_BA21",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:parietal_cortex_ba7",
+      "node_type": "brain_region",
+      "name": "parietal_cortex_BA7",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:insula_anterior",
+      "node_type": "brain_region",
+      "name": "insula_anterior",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hippocampus_ca3",
+      "node_type": "brain_region",
+      "name": "hippocampus_CA3",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:entorhinal_cortex",
+      "node_type": "brain_region",
+      "name": "entorhinal_cortex",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:nucleus_accumbens_shell",
+      "node_type": "brain_region",
+      "name": "nucleus_accumbens_shell",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:caudate_nucleus",
+      "node_type": "brain_region",
+      "name": "caudate_nucleus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:thalamus_pulvinar",
+      "node_type": "brain_region",
+      "name": "thalamus_pulvinar",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:brainstem",
+      "node_type": "brain_region",
+      "name": "brainstem",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:visual_geometry",
+      "node_type": "effect",
+      "name": "visual_geometry",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:ego_dissolution",
+      "node_type": "effect",
+      "name": "ego_dissolution",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:mystical_experience",
+      "node_type": "effect",
+      "name": "mystical_experience",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:synesthesia",
+      "node_type": "effect",
+      "name": "synesthesia",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:thought_disorder",
+      "node_type": "effect",
+      "name": "thought_disorder",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:5_ht2b",
+      "node_type": "receptor",
+      "name": "5-HT2B",
+      "receptor_type": null,
+      "neurotransmitter": "Gq_coupled"
+    },
+    {
+      "id": "brain_region:heart_valves",
+      "node_type": "brain_region",
+      "name": "heart_valves",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:stomach_fundus",
+      "node_type": "brain_region",
+      "name": "stomach_fundus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:intestine",
+      "node_type": "brain_region",
+      "name": "intestine",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:pulmonary_artery",
+      "node_type": "brain_region",
+      "name": "pulmonary_artery",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:cerebellum_purkinje",
+      "node_type": "brain_region",
+      "name": "cerebellum_purkinje",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:dorsal_raphe",
+      "node_type": "brain_region",
+      "name": "dorsal_raphe",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hypothalamus",
+      "node_type": "brain_region",
+      "name": "hypothalamus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:nausea",
+      "node_type": "effect",
+      "name": "nausea",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:cardiac_valvulopathy",
+      "node_type": "effect",
+      "name": "cardiac_valvulopathy",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:pulmonary_hypertension",
+      "node_type": "effect",
+      "name": "pulmonary_hypertension",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:5_ht2c",
+      "node_type": "receptor",
+      "name": "5-HT2C",
+      "receptor_type": null,
+      "neurotransmitter": "Gq_coupled_constitutively_active"
+    },
+    {
+      "id": "brain_region:choroid_plexus",
+      "node_type": "brain_region",
+      "name": "choroid_plexus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:nucleus_accumbens",
+      "node_type": "brain_region",
+      "name": "nucleus_accumbens",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:substantia_nigra_pars_compacta",
+      "node_type": "brain_region",
+      "name": "substantia_nigra_pars_compacta",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:vta",
+      "node_type": "brain_region",
+      "name": "VTA",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:amygdala_central",
+      "node_type": "brain_region",
+      "name": "amygdala_central",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hypothalamus_arcuate",
+      "node_type": "brain_region",
+      "name": "hypothalamus_arcuate",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:prefrontal_cortex",
+      "node_type": "brain_region",
+      "name": "prefrontal_cortex",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:habenula",
+      "node_type": "brain_region",
+      "name": "habenula",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:olfactory_tubercle",
+      "node_type": "brain_region",
+      "name": "olfactory_tubercle",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:appetite_suppression",
+      "node_type": "effect",
+      "name": "appetite_suppression",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:anxiety",
+      "node_type": "effect",
+      "name": "anxiety",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:dopamine_modulation",
+      "node_type": "effect",
+      "name": "dopamine_modulation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:csf_production",
+      "node_type": "effect",
+      "name": "CSF_production",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:d1",
+      "node_type": "receptor",
+      "name": "D1",
+      "receptor_type": null,
+      "neurotransmitter": "Gs_coupled_excitatory"
+    },
+    {
+      "id": "brain_region:putamen",
+      "node_type": "brain_region",
+      "name": "putamen",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:nucleus_accumbens_core",
+      "node_type": "brain_region",
+      "name": "nucleus_accumbens_core",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:prefrontal_cortex_layer_vi",
+      "node_type": "brain_region",
+      "name": "prefrontal_cortex_layer_VI",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:anterior_cingulate",
+      "node_type": "brain_region",
+      "name": "anterior_cingulate",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hippocampus_subiculum",
+      "node_type": "brain_region",
+      "name": "hippocampus_subiculum",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:substantia_nigra",
+      "node_type": "brain_region",
+      "name": "substantia_nigra",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:reward_learning",
+      "node_type": "effect",
+      "name": "reward_learning",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:working_memory",
+      "node_type": "effect",
+      "name": "working_memory",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:motor_initiation",
+      "node_type": "effect",
+      "name": "motor_initiation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:motivation",
+      "node_type": "effect",
+      "name": "motivation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:d2",
+      "node_type": "receptor",
+      "name": "D2",
+      "receptor_type": null,
+      "neurotransmitter": "Gi/o_coupled_inhibitory"
+    },
+    {
+      "id": "brain_region:globus_pallidus_external",
+      "node_type": "brain_region",
+      "name": "globus_pallidus_external",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:pituitary_anterior",
+      "node_type": "brain_region",
+      "name": "pituitary_anterior",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:amygdala",
+      "node_type": "brain_region",
+      "name": "amygdala",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hippocampus",
+      "node_type": "brain_region",
+      "name": "hippocampus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:thalamus_mediodorsal",
+      "node_type": "brain_region",
+      "name": "thalamus_mediodorsal",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:euphoria",
+      "node_type": "effect",
+      "name": "euphoria",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:reward",
+      "node_type": "effect",
+      "name": "reward",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:motor_control",
+      "node_type": "effect",
+      "name": "motor_control",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:prolactin_inhibition",
+      "node_type": "effect",
+      "name": "prolactin_inhibition",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:psychosis_risk",
+      "node_type": "effect",
+      "name": "psychosis_risk",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:d3",
+      "node_type": "receptor",
+      "name": "D3",
+      "receptor_type": null,
+      "neurotransmitter": "Gi/o_coupled"
+    },
+    {
+      "id": "brain_region:islands_of_calleja",
+      "node_type": "brain_region",
+      "name": "islands_of_Calleja",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hypothalamus_mammillary",
+      "node_type": "brain_region",
+      "name": "hypothalamus_mammillary",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:caudate",
+      "node_type": "brain_region",
+      "name": "caudate",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:cortex",
+      "node_type": "brain_region",
+      "name": "cortex",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:addiction_vulnerability",
+      "node_type": "effect",
+      "name": "addiction_vulnerability",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:reward_salience",
+      "node_type": "effect",
+      "name": "reward_salience",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:mood_regulation",
+      "node_type": "effect",
+      "name": "mood_regulation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:nmda_glun2a",
+      "node_type": "receptor",
+      "name": "NMDA_GluN2A",
+      "receptor_type": null,
+      "neurotransmitter": "ionotropic_Ca2+_permeable"
+    },
+    {
+      "id": "brain_region:hippocampus_ca1_stratum_radiatum",
+      "node_type": "brain_region",
+      "name": "hippocampus_CA1_stratum_radiatum",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hippocampus_dentate_molecular",
+      "node_type": "brain_region",
+      "name": "hippocampus_dentate_molecular",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:cerebral_cortex_layer_ii_iii",
+      "node_type": "brain_region",
+      "name": "cerebral_cortex_layer_II_III",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:cerebral_cortex_layer_v",
+      "node_type": "brain_region",
+      "name": "cerebral_cortex_layer_V",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:thalamus_sensory",
+      "node_type": "brain_region",
+      "name": "thalamus_sensory",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:cerebellum_granule",
+      "node_type": "brain_region",
+      "name": "cerebellum_granule",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:memory_formation",
+      "node_type": "effect",
+      "name": "memory_formation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:ltp",
+      "node_type": "effect",
+      "name": "LTP",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:excitotoxicity",
+      "node_type": "effect",
+      "name": "excitotoxicity",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:nmda_glun2b",
+      "node_type": "receptor",
+      "name": "NMDA_GluN2B",
+      "receptor_type": null,
+      "neurotransmitter": "ionotropic_extrasynaptic"
+    },
+    {
+      "id": "effect:dissociation",
+      "node_type": "effect",
+      "name": "dissociation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:ketamine_target",
+      "node_type": "effect",
+      "name": "ketamine_target",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:antidepressant_mechanism",
+      "node_type": "effect",
+      "name": "antidepressant_mechanism",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:memory_suppression",
+      "node_type": "effect",
+      "name": "memory_suppression",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:ampa_glua1",
+      "node_type": "receptor",
+      "name": "AMPA_GluA1",
+      "receptor_type": null,
+      "neurotransmitter": "ionotropic_fast_excitatory"
+    },
+    {
+      "id": "effect:fast_transmission",
+      "node_type": "effect",
+      "name": "fast_transmission",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:synaptic_plasticity",
+      "node_type": "effect",
+      "name": "synaptic_plasticity",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:consciousness_arousal",
+      "node_type": "effect",
+      "name": "consciousness_arousal",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:gaba_a_alpha1",
+      "node_type": "receptor",
+      "name": "GABA_A_alpha1",
+      "receptor_type": null,
+      "neurotransmitter": "Cl-_channel_inhibitory"
+    },
+    {
+      "id": "brain_region:cerebral_cortex_layer_iv",
+      "node_type": "brain_region",
+      "name": "cerebral_cortex_layer_IV",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hippocampus_ca1_stratum_oriens",
+      "node_type": "brain_region",
+      "name": "hippocampus_CA1_stratum_oriens",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:thalamus_reticular",
+      "node_type": "brain_region",
+      "name": "thalamus_reticular",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:thalamus_sensory_relay",
+      "node_type": "brain_region",
+      "name": "thalamus_sensory_relay",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:globus_pallidus",
+      "node_type": "brain_region",
+      "name": "globus_pallidus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:substantia_nigra_pars_reticulata",
+      "node_type": "brain_region",
+      "name": "substantia_nigra_pars_reticulata",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:cerebellum_granule_layer",
+      "node_type": "brain_region",
+      "name": "cerebellum_granule_layer",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:inferior_colliculus",
+      "node_type": "brain_region",
+      "name": "inferior_colliculus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:sedation",
+      "node_type": "effect",
+      "name": "sedation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:amnesia",
+      "node_type": "effect",
+      "name": "amnesia",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:anticonvulsant",
+      "node_type": "effect",
+      "name": "anticonvulsant",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:muscle_relaxation",
+      "node_type": "effect",
+      "name": "muscle_relaxation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:gaba_a_alpha2",
+      "node_type": "receptor",
+      "name": "GABA_A_alpha2",
+      "receptor_type": null,
+      "neurotransmitter": "Cl-_channel_inhibitory"
+    },
+    {
+      "id": "brain_region:hippocampus_pyramidal_layer",
+      "node_type": "brain_region",
+      "name": "hippocampus_pyramidal_layer",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:spinal_cord_dorsal_horn",
+      "node_type": "brain_region",
+      "name": "spinal_cord_dorsal_horn",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:minimal_sedation",
+      "node_type": "effect",
+      "name": "minimal_sedation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:mor",
+      "node_type": "receptor",
+      "name": "MOR",
+      "receptor_type": null,
+      "neurotransmitter": "Gi/o_coupled_inhibitory"
+    },
+    {
+      "id": "brain_region:periaqueductal_gray",
+      "node_type": "brain_region",
+      "name": "periaqueductal_gray",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:thalamus_medial",
+      "node_type": "brain_region",
+      "name": "thalamus_medial",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:nucleus_accumbens_patch",
+      "node_type": "brain_region",
+      "name": "nucleus_accumbens_patch",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:caudate_striosomes",
+      "node_type": "brain_region",
+      "name": "caudate_striosomes",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:habenula_medial",
+      "node_type": "brain_region",
+      "name": "habenula_medial",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:locus_coeruleus",
+      "node_type": "brain_region",
+      "name": "locus_coeruleus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:rostral_ventromedial_medulla",
+      "node_type": "brain_region",
+      "name": "rostral_ventromedial_medulla",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:spinal_cord_dorsal_horn_i_ii",
+      "node_type": "brain_region",
+      "name": "spinal_cord_dorsal_horn_I_II",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:nucleus_tractus_solitarius",
+      "node_type": "brain_region",
+      "name": "nucleus_tractus_solitarius",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:insula",
+      "node_type": "brain_region",
+      "name": "insula",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:analgesia",
+      "node_type": "effect",
+      "name": "analgesia",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:respiratory_depression",
+      "node_type": "effect",
+      "name": "respiratory_depression",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:constipation",
+      "node_type": "effect",
+      "name": "constipation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:dependence",
+      "node_type": "effect",
+      "name": "dependence",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:kor",
+      "node_type": "receptor",
+      "name": "KOR",
+      "receptor_type": null,
+      "neurotransmitter": "Gi/o_coupled_inhibitory"
+    },
+    {
+      "id": "brain_region:bed_nucleus_stria_terminalis",
+      "node_type": "brain_region",
+      "name": "bed_nucleus_stria_terminalis",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:spinal_cord",
+      "node_type": "brain_region",
+      "name": "spinal_cord",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:dysphoria",
+      "node_type": "effect",
+      "name": "dysphoria",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:depersonalization",
+      "node_type": "effect",
+      "name": "depersonalization",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:derealization",
+      "node_type": "effect",
+      "name": "derealization",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:salvia_experience",
+      "node_type": "effect",
+      "name": "salvia_experience",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:stress_response",
+      "node_type": "effect",
+      "name": "stress_response",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:dor",
+      "node_type": "receptor",
+      "name": "DOR",
+      "receptor_type": null,
+      "neurotransmitter": "Gi/o_coupled"
+    },
+    {
+      "id": "brain_region:olfactory_bulb",
+      "node_type": "brain_region",
+      "name": "olfactory_bulb",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:neocortex_layer_ii_iii",
+      "node_type": "brain_region",
+      "name": "neocortex_layer_II_III",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:neocortex_layer_v_vi",
+      "node_type": "brain_region",
+      "name": "neocortex_layer_V_VI",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:striatum_matrix",
+      "node_type": "brain_region",
+      "name": "striatum_matrix",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:pontine_nuclei",
+      "node_type": "brain_region",
+      "name": "pontine_nuclei",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:antidepressant",
+      "node_type": "effect",
+      "name": "antidepressant",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:mild_analgesia",
+      "node_type": "effect",
+      "name": "mild_analgesia",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:seizure_modulation",
+      "node_type": "effect",
+      "name": "seizure_modulation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:cb1",
+      "node_type": "receptor",
+      "name": "CB1",
+      "receptor_type": null,
+      "neurotransmitter": "Gi/o_retrograde_messenger"
+    },
+    {
+      "id": "brain_region:globus_pallidus_internal",
+      "node_type": "brain_region",
+      "name": "globus_pallidus_internal",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:cerebellum_molecular_layer",
+      "node_type": "brain_region",
+      "name": "cerebellum_molecular_layer",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:prefrontal_cortex_layer_ii_iii",
+      "node_type": "brain_region",
+      "name": "prefrontal_cortex_layer_II_III",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:brainstem_respiratory",
+      "node_type": "brain_region",
+      "name": "brainstem_respiratory",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:time_dilation",
+      "node_type": "effect",
+      "name": "time_dilation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:memory_impairment",
+      "node_type": "effect",
+      "name": "memory_impairment",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:appetite_stimulation",
+      "node_type": "effect",
+      "name": "appetite_stimulation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:motor_impairment",
+      "node_type": "effect",
+      "name": "motor_impairment",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:alpha2a",
+      "node_type": "receptor",
+      "name": "alpha2A",
+      "receptor_type": null,
+      "neurotransmitter": "Gi/o_coupled_inhibitory"
+    },
+    {
+      "id": "effect:hypotension",
+      "node_type": "effect",
+      "name": "hypotension",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:working_memory_enhancement",
+      "node_type": "effect",
+      "name": "working_memory_enhancement",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:sigma1",
+      "node_type": "receptor",
+      "name": "Sigma1",
+      "receptor_type": null,
+      "neurotransmitter": "ER_chaperone_Ca2+_modulator"
+    },
+    {
+      "id": "brain_region:motor_cortex_layer_v",
+      "node_type": "brain_region",
+      "name": "motor_cortex_layer_V",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hippocampus_pyramidal",
+      "node_type": "brain_region",
+      "name": "hippocampus_pyramidal",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:hippocampus_dentate",
+      "node_type": "brain_region",
+      "name": "hippocampus_dentate",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:red_nucleus",
+      "node_type": "brain_region",
+      "name": "red_nucleus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:spinal_cord_motor_neurons",
+      "node_type": "brain_region",
+      "name": "spinal_cord_motor_neurons",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:neuroprotection",
+      "node_type": "effect",
+      "name": "neuroprotection",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:neuroplasticity",
+      "node_type": "effect",
+      "name": "neuroplasticity",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:dissociation_mild",
+      "node_type": "effect",
+      "name": "dissociation_mild",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:nachr_alpha4beta2",
+      "node_type": "receptor",
+      "name": "nAChR_alpha4beta2",
+      "receptor_type": null,
+      "neurotransmitter": "cation_channel_excitatory"
+    },
+    {
+      "id": "brain_region:thalamus_anteroventral",
+      "node_type": "brain_region",
+      "name": "thalamus_anteroventral",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:thalamus_lateral_geniculate",
+      "node_type": "brain_region",
+      "name": "thalamus_lateral_geniculate",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:superior_colliculus",
+      "node_type": "brain_region",
+      "name": "superior_colliculus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:interpeduncular_nucleus",
+      "node_type": "brain_region",
+      "name": "interpeduncular_nucleus",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:medial_habenula",
+      "node_type": "brain_region",
+      "name": "medial_habenula",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "brain_region:visual_cortex",
+      "node_type": "brain_region",
+      "name": "visual_cortex",
+      "parent_structure": null,
+      "brodmann_areas": []
+    },
+    {
+      "id": "effect:attention_enhancement",
+      "node_type": "effect",
+      "name": "attention_enhancement",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:memory_consolidation",
+      "node_type": "effect",
+      "name": "memory_consolidation",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:nicotine_addiction",
+      "node_type": "effect",
+      "name": "nicotine_addiction",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:arousal",
+      "node_type": "effect",
+      "name": "arousal",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "receptor:m1_muscarinic",
+      "node_type": "receptor",
+      "name": "M1_muscarinic",
+      "receptor_type": null,
+      "neurotransmitter": "Gq_coupled_excitatory"
+    },
+    {
+      "id": "effect:memory_enhancement",
+      "node_type": "effect",
+      "name": "memory_enhancement",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:psychosis",
+      "node_type": "effect",
+      "name": "psychosis",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:anticholinergic_delirium",
+      "node_type": "effect",
+      "name": "anticholinergic_delirium",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "effect:cognition",
+      "node_type": "effect",
+      "name": "cognition",
+      "category": null,
+      "description": null
+    },
+    {
+      "id": "substance:lsd",
+      "node_type": "substance",
+      "name": "LSD",
+      "class": null,
+      "common_names": [],
+      "pharmacology": {
+        "half_life_hours": 3.0,
+        "primary_targets": [
+          "5-HT2A",
+          "5-HT1A",
+          "D2"
+        ]
+      }
+    },
+    {
+      "id": "substance:psilocin",
+      "node_type": "substance",
+      "name": "Psilocin",
+      "class": null,
+      "common_names": [],
+      "pharmacology": {
+        "half_life_hours": 2.5,
+        "primary_targets": [
+          "5-HT2A"
+        ]
+      }
+    },
+    {
+      "id": "substance:dmt",
+      "node_type": "substance",
+      "name": "DMT",
+      "class": null,
+      "common_names": [],
+      "pharmacology": {
+        "half_life_hours": 0.25,
+        "primary_targets": [
+          "5-HT2A",
+          "Sigma1"
+        ]
+      }
+    },
+    {
+      "id": "substance:mdma",
+      "node_type": "substance",
+      "name": "MDMA",
+      "class": null,
+      "common_names": [],
+      "pharmacology": {
+        "half_life_hours": 7.0,
+        "primary_targets": [
+          "SERT",
+          "NET"
+        ]
+      }
+    },
+    {
+      "id": "substance:ketamine",
+      "node_type": "substance",
+      "name": "Ketamine",
+      "class": null,
+      "common_names": [],
+      "pharmacology": {
+        "half_life_hours": 2.5,
+        "primary_targets": [
+          "NMDA"
+        ]
+      }
+    },
+    {
+      "id": "substance:salvinorin_a",
+      "node_type": "substance",
+      "name": "Salvinorin A",
+      "class": null,
+      "common_names": [],
+      "pharmacology": {
+        "half_life_hours": 0.5,
+        "primary_targets": [
+          "KOR"
+        ]
+      }
+    },
+    {
+      "id": "substance:mescaline",
+      "node_type": "substance",
+      "name": "Mescaline",
+      "class": null,
+      "common_names": [],
+      "pharmacology": {
+        "half_life_hours": 6.0,
+        "primary_targets": [
+          "5-HT2A",
+          "5-HT2B",
+          "5-HT2C"
+        ]
+      }
+    },
+    {
+      "id": "substance:thc",
+      "node_type": "substance",
+      "name": "THC",
+      "class": null,
+      "common_names": [],
+      "pharmacology": {
+        "half_life_hours": 25,
+        "primary_targets": [
+          "CB1"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:dorsal_raphe_nucleus",
+      "edge_type": "located_in",
+      "density": "450",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:median_raphe_nucleus",
+      "edge_type": "located_in",
+      "density": "380",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:hippocampus_ca1",
+      "edge_type": "located_in",
+      "density": "180",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:hippocampus_dentate_gyrus",
+      "edge_type": "located_in",
+      "density": "165",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:entorhinal_cortex_layer_ii",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:septum_lateral",
+      "edge_type": "located_in",
+      "density": "130",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "120",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:prefrontal_cortex_layer_ii",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:anterior_cingulate_cortex",
+      "edge_type": "located_in",
+      "density": "75",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:temporal_cortex",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:hypothalamus_paraventricular",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "15",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:cerebellum",
+      "edge_type": "located_in",
+      "density": "8",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "brain_region:thalamus",
+      "edge_type": "located_in",
+      "density": "25",
+      "source_pmid": "2866061",
+      "source_authors": "Pazos A, Palacios JM",
+      "source_year": 1985,
+      "source_journal": "Brain Res",
+      "source_doi": "10.1016/0006-8993(85)90051-1"
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "effect:anxiolysis",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "effect:introspection",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "effect:mood_elevation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht1a",
+      "target": "effect:sexual_dysfunction",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:prefrontal_cortex_layer_v",
+      "edge_type": "located_in",
+      "density": "48",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:anterior_cingulate_ba24",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:posterior_cingulate_ba23",
+      "edge_type": "located_in",
+      "density": "42",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:claustrum",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:visual_cortex_v1_layer_iv",
+      "edge_type": "located_in",
+      "density": "38",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:visual_cortex_v2",
+      "edge_type": "located_in",
+      "density": "35",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:temporal_cortex_ba21",
+      "edge_type": "located_in",
+      "density": "32",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:parietal_cortex_ba7",
+      "edge_type": "located_in",
+      "density": "30",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:insula_anterior",
+      "edge_type": "located_in",
+      "density": "36",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:hippocampus_ca3",
+      "edge_type": "located_in",
+      "density": "22",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "25",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:entorhinal_cortex",
+      "edge_type": "located_in",
+      "density": "28",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:nucleus_accumbens_shell",
+      "edge_type": "located_in",
+      "density": "18",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:caudate_nucleus",
+      "edge_type": "located_in",
+      "density": "15",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:thalamus_pulvinar",
+      "edge_type": "located_in",
+      "density": "12",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:cerebellum",
+      "edge_type": "located_in",
+      "density": "3",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "brain_region:brainstem",
+      "edge_type": "located_in",
+      "density": "8",
+      "source_pmid": "2880879",
+      "source_authors": "Pazos A et al.",
+      "source_year": 1987,
+      "source_journal": "Eur J Pharmacol",
+      "source_doi": "10.1016/0014-2999(87)90182-2"
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "effect:visual_geometry",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "effect:ego_dissolution",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "effect:mystical_experience",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "effect:synesthesia",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2a",
+      "target": "effect:thought_disorder",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "brain_region:heart_valves",
+      "edge_type": "located_in",
+      "density": "250",
+      "source_pmid": "9364460",
+      "source_authors": "Duxon MS et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00181-4"
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "brain_region:stomach_fundus",
+      "edge_type": "located_in",
+      "density": "180",
+      "source_pmid": "9364460",
+      "source_authors": "Duxon MS et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00181-4"
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "brain_region:intestine",
+      "edge_type": "located_in",
+      "density": "120",
+      "source_pmid": "9364460",
+      "source_authors": "Duxon MS et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00181-4"
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "brain_region:pulmonary_artery",
+      "edge_type": "located_in",
+      "density": "90",
+      "source_pmid": "9364460",
+      "source_authors": "Duxon MS et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00181-4"
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "brain_region:cerebellum_purkinje",
+      "edge_type": "located_in",
+      "density": "12",
+      "source_pmid": "9364460",
+      "source_authors": "Duxon MS et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00181-4"
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "brain_region:dorsal_raphe",
+      "edge_type": "located_in",
+      "density": "8",
+      "source_pmid": "9364460",
+      "source_authors": "Duxon MS et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00181-4"
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "brain_region:hypothalamus",
+      "edge_type": "located_in",
+      "density": "6",
+      "source_pmid": "9364460",
+      "source_authors": "Duxon MS et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00181-4"
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "effect:nausea",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "effect:cardiac_valvulopathy",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2b",
+      "target": "effect:pulmonary_hypertension",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:choroid_plexus",
+      "edge_type": "located_in",
+      "density": "850",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:nucleus_accumbens",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:substantia_nigra_pars_compacta",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:vta",
+      "edge_type": "located_in",
+      "density": "50",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:amygdala_central",
+      "edge_type": "located_in",
+      "density": "48",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:hippocampus_ca3",
+      "edge_type": "located_in",
+      "density": "42",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:hypothalamus_arcuate",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:prefrontal_cortex",
+      "edge_type": "located_in",
+      "density": "28",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:habenula",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "22",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "brain_region:olfactory_tubercle",
+      "edge_type": "located_in",
+      "density": "35",
+      "source_pmid": "7501640",
+      "source_authors": "Abramowski D et al.",
+      "source_year": 1995,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(95)00196-p"
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "effect:appetite_suppression",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "effect:anxiety",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "effect:dopamine_modulation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:5_ht2c",
+      "target": "effect:csf_production",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:caudate_nucleus",
+      "edge_type": "located_in",
+      "density": "380",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:putamen",
+      "edge_type": "located_in",
+      "density": "420",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:nucleus_accumbens_core",
+      "edge_type": "located_in",
+      "density": "350",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:nucleus_accumbens_shell",
+      "edge_type": "located_in",
+      "density": "280",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:olfactory_tubercle",
+      "edge_type": "located_in",
+      "density": "260",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:prefrontal_cortex_layer_v",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:prefrontal_cortex_layer_vi",
+      "edge_type": "located_in",
+      "density": "38",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:anterior_cingulate",
+      "edge_type": "located_in",
+      "density": "35",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:entorhinal_cortex",
+      "edge_type": "located_in",
+      "density": "28",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "32",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:hippocampus_subiculum",
+      "edge_type": "located_in",
+      "density": "25",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:substantia_nigra",
+      "edge_type": "located_in",
+      "density": "15",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:thalamus",
+      "edge_type": "located_in",
+      "density": "12",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "brain_region:cerebellum",
+      "edge_type": "located_in",
+      "density": "2",
+      "source_pmid": "2566994",
+      "source_authors": "Camps M et al.",
+      "source_year": 1989,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(89)90016-0"
+    },
+    {
+      "source": "receptor:d1",
+      "target": "effect:reward_learning",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d1",
+      "target": "effect:working_memory",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d1",
+      "target": "effect:motor_initiation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d1",
+      "target": "effect:motivation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:caudate_nucleus",
+      "edge_type": "located_in",
+      "density": "280",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:putamen",
+      "edge_type": "located_in",
+      "density": "320",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:nucleus_accumbens",
+      "edge_type": "located_in",
+      "density": "240",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:olfactory_tubercle",
+      "edge_type": "located_in",
+      "density": "180",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:substantia_nigra_pars_compacta",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:vta",
+      "edge_type": "located_in",
+      "density": "75",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:globus_pallidus_external",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:hypothalamus_arcuate",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:pituitary_anterior",
+      "edge_type": "located_in",
+      "density": "120",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:amygdala",
+      "edge_type": "located_in",
+      "density": "25",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:prefrontal_cortex",
+      "edge_type": "located_in",
+      "density": "8",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:temporal_cortex",
+      "edge_type": "located_in",
+      "density": "6",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:hippocampus",
+      "edge_type": "located_in",
+      "density": "5",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "brain_region:thalamus_mediodorsal",
+      "edge_type": "located_in",
+      "density": "18",
+      "source_pmid": "8316259",
+      "source_authors": "Hall H et al.",
+      "source_year": 1996,
+      "source_journal": "Synapse",
+      "source_doi": "10.1002/(SICI)1098-2396(199606)23:2<82::AID-SYN2>3.0.CO;2-I"
+    },
+    {
+      "source": "receptor:d2",
+      "target": "effect:euphoria",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d2",
+      "target": "effect:reward",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d2",
+      "target": "effect:motor_control",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d2",
+      "target": "effect:prolactin_inhibition",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d2",
+      "target": "effect:psychosis_risk",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:nucleus_accumbens_shell",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:islands_of_calleja",
+      "edge_type": "located_in",
+      "density": "120",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:olfactory_tubercle",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:vta",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:substantia_nigra",
+      "edge_type": "located_in",
+      "density": "35",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:hippocampus",
+      "edge_type": "located_in",
+      "density": "18",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:amygdala",
+      "edge_type": "located_in",
+      "density": "22",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:hypothalamus_mammillary",
+      "edge_type": "located_in",
+      "density": "28",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:caudate",
+      "edge_type": "located_in",
+      "density": "8",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:putamen",
+      "edge_type": "located_in",
+      "density": "6",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "brain_region:cortex",
+      "edge_type": "located_in",
+      "density": "3",
+      "source_pmid": "10487009",
+      "source_authors": "Gurevich EV, Joyce JN",
+      "source_year": 1999,
+      "source_journal": "Neuropsychopharmacology",
+      "source_doi": "10.1016/S0893-133X(98)00160-7"
+    },
+    {
+      "source": "receptor:d3",
+      "target": "effect:addiction_vulnerability",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d3",
+      "target": "effect:reward_salience",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:d3",
+      "target": "effect:mood_regulation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "brain_region:hippocampus_ca1_stratum_radiatum",
+      "edge_type": "located_in",
+      "density": "280",
+      "source_pmid": "2864729",
+      "source_authors": "Monaghan DT, Cotman CW",
+      "source_year": 1985,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "brain_region:hippocampus_ca3",
+      "edge_type": "located_in",
+      "density": "220",
+      "source_pmid": "2864729",
+      "source_authors": "Monaghan DT, Cotman CW",
+      "source_year": 1985,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "brain_region:hippocampus_dentate_molecular",
+      "edge_type": "located_in",
+      "density": "240",
+      "source_pmid": "2864729",
+      "source_authors": "Monaghan DT, Cotman CW",
+      "source_year": 1985,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "brain_region:cerebral_cortex_layer_ii_iii",
+      "edge_type": "located_in",
+      "density": "180",
+      "source_pmid": "2864729",
+      "source_authors": "Monaghan DT, Cotman CW",
+      "source_year": 1985,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "brain_region:cerebral_cortex_layer_v",
+      "edge_type": "located_in",
+      "density": "165",
+      "source_pmid": "2864729",
+      "source_authors": "Monaghan DT, Cotman CW",
+      "source_year": 1985,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "2864729",
+      "source_authors": "Monaghan DT, Cotman CW",
+      "source_year": 1985,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "95",
+      "source_pmid": "2864729",
+      "source_authors": "Monaghan DT, Cotman CW",
+      "source_year": 1985,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "brain_region:thalamus_sensory",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "2864729",
+      "source_authors": "Monaghan DT, Cotman CW",
+      "source_year": 1985,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "brain_region:cerebellum_granule",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "2864729",
+      "source_authors": "Monaghan DT, Cotman CW",
+      "source_year": 1985,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "effect:memory_formation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "effect:ltp",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nmda_glun2a",
+      "target": "effect:excitotoxicity",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "brain_region:prefrontal_cortex",
+      "edge_type": "located_in",
+      "density": "150",
+      "source_pmid": "9364686",
+      "source_authors": "Wenzel A et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00245-5"
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "brain_region:hippocampus_ca1",
+      "edge_type": "located_in",
+      "density": "180",
+      "source_pmid": "9364686",
+      "source_authors": "Wenzel A et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00245-5"
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "brain_region:anterior_cingulate",
+      "edge_type": "located_in",
+      "density": "140",
+      "source_pmid": "9364686",
+      "source_authors": "Wenzel A et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00245-5"
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "120",
+      "source_pmid": "9364686",
+      "source_authors": "Wenzel A et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00245-5"
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "brain_region:amygdala",
+      "edge_type": "located_in",
+      "density": "135",
+      "source_pmid": "9364686",
+      "source_authors": "Wenzel A et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00245-5"
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "brain_region:thalamus",
+      "edge_type": "located_in",
+      "density": "75",
+      "source_pmid": "9364686",
+      "source_authors": "Wenzel A et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00245-5"
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "brain_region:cerebellum",
+      "edge_type": "located_in",
+      "density": "8",
+      "source_pmid": "9364686",
+      "source_authors": "Wenzel A et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00245-5"
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "brain_region:brainstem",
+      "edge_type": "located_in",
+      "density": "25",
+      "source_pmid": "9364686",
+      "source_authors": "Wenzel A et al.",
+      "source_year": 1997,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(97)00245-5"
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "effect:dissociation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "effect:ketamine_target",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "effect:antidepressant_mechanism",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nmda_glun2b",
+      "target": "effect:memory_suppression",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "brain_region:hippocampus_ca1",
+      "edge_type": "located_in",
+      "density": "450",
+      "source_pmid": "8247264",
+      "source_authors": "Martin LJ et al.",
+      "source_year": 1993,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(93)90186-j"
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "brain_region:hippocampus_ca3",
+      "edge_type": "located_in",
+      "density": "380",
+      "source_pmid": "8247264",
+      "source_authors": "Martin LJ et al.",
+      "source_year": 1993,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(93)90186-j"
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "brain_region:cerebral_cortex_layer_ii_iii",
+      "edge_type": "located_in",
+      "density": "320",
+      "source_pmid": "8247264",
+      "source_authors": "Martin LJ et al.",
+      "source_year": 1993,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(93)90186-j"
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "brain_region:cerebral_cortex_layer_v",
+      "edge_type": "located_in",
+      "density": "280",
+      "source_pmid": "8247264",
+      "source_authors": "Martin LJ et al.",
+      "source_year": 1993,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(93)90186-j"
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "brain_region:amygdala",
+      "edge_type": "located_in",
+      "density": "220",
+      "source_pmid": "8247264",
+      "source_authors": "Martin LJ et al.",
+      "source_year": 1993,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(93)90186-j"
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "180",
+      "source_pmid": "8247264",
+      "source_authors": "Martin LJ et al.",
+      "source_year": 1993,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(93)90186-j"
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "brain_region:thalamus",
+      "edge_type": "located_in",
+      "density": "150",
+      "source_pmid": "8247264",
+      "source_authors": "Martin LJ et al.",
+      "source_year": 1993,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(93)90186-j"
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "brain_region:cerebellum_purkinje",
+      "edge_type": "located_in",
+      "density": "280",
+      "source_pmid": "8247264",
+      "source_authors": "Martin LJ et al.",
+      "source_year": 1993,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/0306-4522(93)90186-j"
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "effect:fast_transmission",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "effect:synaptic_plasticity",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:ampa_glua1",
+      "target": "effect:consciousness_arousal",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:cerebral_cortex_layer_iv",
+      "edge_type": "located_in",
+      "density": "280",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:cerebral_cortex_layer_ii_iii",
+      "edge_type": "located_in",
+      "density": "220",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:hippocampus_ca1_stratum_oriens",
+      "edge_type": "located_in",
+      "density": "185",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:thalamus_reticular",
+      "edge_type": "located_in",
+      "density": "320",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:thalamus_sensory_relay",
+      "edge_type": "located_in",
+      "density": "180",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "165",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:globus_pallidus",
+      "edge_type": "located_in",
+      "density": "250",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:substantia_nigra_pars_reticulata",
+      "edge_type": "located_in",
+      "density": "280",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:cerebellum_granule_layer",
+      "edge_type": "located_in",
+      "density": "320",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "brain_region:inferior_colliculus",
+      "edge_type": "located_in",
+      "density": "220",
+      "source_pmid": "11772130",
+      "source_authors": "Pirker S et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00496-0"
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "effect:sedation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "effect:amnesia",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "effect:anticonvulsant",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:gaba_a_alpha1",
+      "target": "effect:muscle_relaxation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "brain_region:hippocampus_pyramidal_layer",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "7898650",
+      "source_authors": "Fritschy JM, Mohler H",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903590110"
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "brain_region:amygdala_central",
+      "edge_type": "located_in",
+      "density": "120",
+      "source_pmid": "7898650",
+      "source_authors": "Fritschy JM, Mohler H",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903590110"
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "95",
+      "source_pmid": "7898650",
+      "source_authors": "Fritschy JM, Mohler H",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903590110"
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "brain_region:anterior_cingulate",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "7898650",
+      "source_authors": "Fritschy JM, Mohler H",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903590110"
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "brain_region:hypothalamus",
+      "edge_type": "located_in",
+      "density": "75",
+      "source_pmid": "7898650",
+      "source_authors": "Fritschy JM, Mohler H",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903590110"
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "brain_region:spinal_cord_dorsal_horn",
+      "edge_type": "located_in",
+      "density": "110",
+      "source_pmid": "7898650",
+      "source_authors": "Fritschy JM, Mohler H",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903590110"
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "brain_region:thalamus",
+      "edge_type": "located_in",
+      "density": "35",
+      "source_pmid": "7898650",
+      "source_authors": "Fritschy JM, Mohler H",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903590110"
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "brain_region:cerebellum",
+      "edge_type": "located_in",
+      "density": "15",
+      "source_pmid": "7898650",
+      "source_authors": "Fritschy JM, Mohler H",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903590110"
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "effect:anxiolysis",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "effect:muscle_relaxation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:gaba_a_alpha2",
+      "target": "effect:minimal_sedation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:periaqueductal_gray",
+      "edge_type": "located_in",
+      "density": "280",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:thalamus_medial",
+      "edge_type": "located_in",
+      "density": "185",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:nucleus_accumbens_patch",
+      "edge_type": "located_in",
+      "density": "165",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:caudate_striosomes",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:amygdala_central",
+      "edge_type": "located_in",
+      "density": "155",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:habenula_medial",
+      "edge_type": "located_in",
+      "density": "175",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:locus_coeruleus",
+      "edge_type": "located_in",
+      "density": "120",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:rostral_ventromedial_medulla",
+      "edge_type": "located_in",
+      "density": "195",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:spinal_cord_dorsal_horn_i_ii",
+      "edge_type": "located_in",
+      "density": "220",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:nucleus_tractus_solitarius",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:prefrontal_cortex",
+      "edge_type": "located_in",
+      "density": "25",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:anterior_cingulate",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "brain_region:insula",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "11102500",
+      "source_authors": "Mathieu-Kia AM et al.",
+      "source_year": 2001,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/1096-9861(20010108)429:2<317::AID-CNE10>3.0.CO;2-X"
+    },
+    {
+      "source": "receptor:mor",
+      "target": "effect:euphoria",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:mor",
+      "target": "effect:analgesia",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:mor",
+      "target": "effect:respiratory_depression",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:mor",
+      "target": "effect:constipation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:mor",
+      "target": "effect:dependence",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:claustrum",
+      "edge_type": "located_in",
+      "density": "320",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:nucleus_accumbens_shell",
+      "edge_type": "located_in",
+      "density": "185",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:hypothalamus_paraventricular",
+      "edge_type": "located_in",
+      "density": "165",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:hypothalamus_arcuate",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "125",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:amygdala_central",
+      "edge_type": "located_in",
+      "density": "95",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:bed_nucleus_stria_terminalis",
+      "edge_type": "located_in",
+      "density": "135",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:vta",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:substantia_nigra",
+      "edge_type": "located_in",
+      "density": "75",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:periaqueductal_gray",
+      "edge_type": "located_in",
+      "density": "95",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:hippocampus_ca3",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:prefrontal_cortex",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "brain_region:spinal_cord",
+      "edge_type": "located_in",
+      "density": "110",
+      "source_pmid": "7739558",
+      "source_authors": "Simonin F et al.",
+      "source_year": 1995,
+      "source_journal": "Mol Pharmacol"
+    },
+    {
+      "source": "receptor:kor",
+      "target": "effect:dysphoria",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:kor",
+      "target": "effect:depersonalization",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:kor",
+      "target": "effect:derealization",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:kor",
+      "target": "effect:salvia_experience",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:kor",
+      "target": "effect:stress_response",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:kor",
+      "target": "effect:analgesia",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:dor",
+      "target": "brain_region:olfactory_bulb",
+      "edge_type": "located_in",
+      "density": "185",
+      "source_pmid": "7752988",
+      "source_authors": "Mansour A et al.",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903500303"
+    },
+    {
+      "source": "receptor:dor",
+      "target": "brain_region:neocortex_layer_ii_iii",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "7752988",
+      "source_authors": "Mansour A et al.",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903500303"
+    },
+    {
+      "source": "receptor:dor",
+      "target": "brain_region:neocortex_layer_v_vi",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "7752988",
+      "source_authors": "Mansour A et al.",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903500303"
+    },
+    {
+      "source": "receptor:dor",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "95",
+      "source_pmid": "7752988",
+      "source_authors": "Mansour A et al.",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903500303"
+    },
+    {
+      "source": "receptor:dor",
+      "target": "brain_region:striatum_matrix",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "7752988",
+      "source_authors": "Mansour A et al.",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903500303"
+    },
+    {
+      "source": "receptor:dor",
+      "target": "brain_region:nucleus_accumbens",
+      "edge_type": "located_in",
+      "density": "75",
+      "source_pmid": "7752988",
+      "source_authors": "Mansour A et al.",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903500303"
+    },
+    {
+      "source": "receptor:dor",
+      "target": "brain_region:hippocampus",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "7752988",
+      "source_authors": "Mansour A et al.",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903500303"
+    },
+    {
+      "source": "receptor:dor",
+      "target": "brain_region:periaqueductal_gray",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "7752988",
+      "source_authors": "Mansour A et al.",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903500303"
+    },
+    {
+      "source": "receptor:dor",
+      "target": "brain_region:pontine_nuclei",
+      "edge_type": "located_in",
+      "density": "120",
+      "source_pmid": "7752988",
+      "source_authors": "Mansour A et al.",
+      "source_year": 1995,
+      "source_journal": "J Comp Neurol",
+      "source_doi": "10.1002/cne.903500303"
+    },
+    {
+      "source": "receptor:dor",
+      "target": "effect:anxiolysis",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:dor",
+      "target": "effect:antidepressant",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:dor",
+      "target": "effect:mild_analgesia",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:dor",
+      "target": "effect:seizure_modulation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:globus_pallidus_internal",
+      "edge_type": "located_in",
+      "density": "850",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:globus_pallidus_external",
+      "edge_type": "located_in",
+      "density": "780",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:substantia_nigra_pars_reticulata",
+      "edge_type": "located_in",
+      "density": "720",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:cerebellum_molecular_layer",
+      "edge_type": "located_in",
+      "density": "680",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:hippocampus_ca1_stratum_oriens",
+      "edge_type": "located_in",
+      "density": "320",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:hippocampus_ca3",
+      "edge_type": "located_in",
+      "density": "280",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:hippocampus_dentate_molecular",
+      "edge_type": "located_in",
+      "density": "245",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "185",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "165",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:prefrontal_cortex_layer_ii_iii",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:anterior_cingulate",
+      "edge_type": "located_in",
+      "density": "135",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:insula",
+      "edge_type": "located_in",
+      "density": "125",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:hypothalamus",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:periaqueductal_gray",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:thalamus",
+      "edge_type": "located_in",
+      "density": "25",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "brain_region:brainstem_respiratory",
+      "edge_type": "located_in",
+      "density": "15",
+      "source_pmid": "1846524",
+      "source_authors": "Herkenham M et al.",
+      "source_year": 1991,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "effect:time_dilation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "effect:memory_impairment",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "effect:appetite_stimulation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "effect:anxiolysis",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:cb1",
+      "target": "effect:motor_impairment",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:locus_coeruleus",
+      "edge_type": "located_in",
+      "density": "420",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:prefrontal_cortex_layer_ii",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:prefrontal_cortex_layer_v",
+      "edge_type": "located_in",
+      "density": "125",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:anterior_cingulate",
+      "edge_type": "located_in",
+      "density": "115",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:hippocampus_ca1",
+      "edge_type": "located_in",
+      "density": "95",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:amygdala_basolateral",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:hypothalamus",
+      "edge_type": "located_in",
+      "density": "105",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:spinal_cord_dorsal_horn",
+      "edge_type": "located_in",
+      "density": "165",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:nucleus_tractus_solitarius",
+      "edge_type": "located_in",
+      "density": "135",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:thalamus",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "25",
+      "source_pmid": "9742129",
+      "source_authors": "Aoki C et al.",
+      "source_year": 1998,
+      "source_journal": "Cereb Cortex",
+      "source_doi": "10.1093/cercor/8.5.473"
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "effect:sedation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "effect:analgesia",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "effect:hypotension",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:alpha2a",
+      "target": "effect:working_memory_enhancement",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:motor_cortex_layer_v",
+      "edge_type": "located_in",
+      "density": "165",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:hippocampus_pyramidal",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:hippocampus_dentate",
+      "edge_type": "located_in",
+      "density": "125",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:cerebellum_purkinje",
+      "edge_type": "located_in",
+      "density": "185",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:cerebellum_granule",
+      "edge_type": "located_in",
+      "density": "135",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:hypothalamus",
+      "edge_type": "located_in",
+      "density": "95",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:red_nucleus",
+      "edge_type": "located_in",
+      "density": "155",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:substantia_nigra",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:dorsal_raphe",
+      "edge_type": "located_in",
+      "density": "75",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:spinal_cord_motor_neurons",
+      "edge_type": "located_in",
+      "density": "175",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:prefrontal_cortex",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "10719221",
+      "source_authors": "Alonso G et al.",
+      "source_year": 2000,
+      "source_journal": "Neuroscience",
+      "source_doi": "10.1016/s0306-4522(99)00567-9"
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "effect:neuroprotection",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "effect:neuroplasticity",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "effect:dissociation_mild",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:sigma1",
+      "target": "effect:antidepressant",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:thalamus_anteroventral",
+      "edge_type": "located_in",
+      "density": "285",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:thalamus_lateral_geniculate",
+      "edge_type": "located_in",
+      "density": "265",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:thalamus_mediodorsal",
+      "edge_type": "located_in",
+      "density": "225",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:superior_colliculus",
+      "edge_type": "located_in",
+      "density": "195",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:interpeduncular_nucleus",
+      "edge_type": "located_in",
+      "density": "320",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:medial_habenula",
+      "edge_type": "located_in",
+      "density": "245",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:prefrontal_cortex",
+      "edge_type": "located_in",
+      "density": "85",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:visual_cortex",
+      "edge_type": "located_in",
+      "density": "75",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:hippocampus",
+      "edge_type": "located_in",
+      "density": "65",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:amygdala",
+      "edge_type": "located_in",
+      "density": "55",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "45",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "brain_region:cerebellum",
+      "edge_type": "located_in",
+      "density": "15",
+      "source_pmid": "9061857",
+      "source_authors": "Spurden DP et al.",
+      "source_year": 1997,
+      "source_journal": "J Chem Neuroanat",
+      "source_doi": "10.1016/s0891-0618(96)00151-8"
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "effect:attention_enhancement",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "effect:memory_consolidation",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "effect:nicotine_addiction",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:nachr_alpha4beta2",
+      "target": "effect:arousal",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:cerebral_cortex_layer_ii_iii",
+      "edge_type": "located_in",
+      "density": "185",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:cerebral_cortex_layer_v",
+      "edge_type": "located_in",
+      "density": "165",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:hippocampus_ca1",
+      "edge_type": "located_in",
+      "density": "195",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:hippocampus_ca3",
+      "edge_type": "located_in",
+      "density": "175",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:striatum",
+      "edge_type": "located_in",
+      "density": "225",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:amygdala",
+      "edge_type": "located_in",
+      "density": "145",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:olfactory_bulb",
+      "edge_type": "located_in",
+      "density": "125",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:thalamus",
+      "edge_type": "located_in",
+      "density": "35",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:cerebellum",
+      "edge_type": "located_in",
+      "density": "12",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "brain_region:brainstem",
+      "edge_type": "located_in",
+      "density": "25",
+      "source_pmid": "7714600",
+      "source_authors": "Levey AI et al.",
+      "source_year": 1995,
+      "source_journal": "J Neurosci"
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "effect:memory_enhancement",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "effect:psychosis",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "effect:anticholinergic_delirium",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "receptor:m1_muscarinic",
+      "target": "effect:cognition",
+      "edge_type": "modulates",
+      "mechanism": null,
+      "confidence": 0.8
+    },
+    {
+      "source": "substance:lsd",
+      "target": "receptor:5_ht2a",
+      "edge_type": "binds_to",
+      "ki_nm": 2.9,
+      "activity": "partial_agonist",
+      "affinity_strength": "very_high"
+    },
+    {
+      "source": "substance:lsd",
+      "target": "receptor:5_ht2b",
+      "edge_type": "binds_to",
+      "ki_nm": 4.9,
+      "activity": "partial_agonist",
+      "affinity_strength": "very_high"
+    },
+    {
+      "source": "substance:lsd",
+      "target": "receptor:5_ht2c",
+      "edge_type": "binds_to",
+      "ki_nm": 5.5,
+      "activity": "partial_agonist",
+      "affinity_strength": "very_high"
+    },
+    {
+      "source": "substance:lsd",
+      "target": "receptor:5_ht1a",
+      "edge_type": "binds_to",
+      "ki_nm": 1.1,
+      "activity": "partial_agonist",
+      "affinity_strength": "very_high"
+    },
+    {
+      "source": "substance:lsd",
+      "target": "receptor:d2",
+      "edge_type": "binds_to",
+      "ki_nm": 120,
+      "activity": "partial_agonist",
+      "affinity_strength": "moderate"
+    },
+    {
+      "source": "substance:lsd",
+      "target": "receptor:d1",
+      "edge_type": "binds_to",
+      "ki_nm": 180,
+      "activity": "partial_agonist",
+      "affinity_strength": "moderate"
+    },
+    {
+      "source": "substance:psilocin",
+      "target": "receptor:5_ht2a",
+      "edge_type": "binds_to",
+      "ki_nm": 6.0,
+      "activity": "partial_agonist",
+      "affinity_strength": "very_high"
+    },
+    {
+      "source": "substance:psilocin",
+      "target": "receptor:5_ht2c",
+      "edge_type": "binds_to",
+      "ki_nm": 97,
+      "activity": "partial_agonist",
+      "affinity_strength": "high"
+    },
+    {
+      "source": "substance:psilocin",
+      "target": "receptor:5_ht1a",
+      "edge_type": "binds_to",
+      "ki_nm": 123,
+      "activity": "partial_agonist",
+      "affinity_strength": "moderate"
+    },
+    {
+      "source": "substance:dmt",
+      "target": "receptor:5_ht2a",
+      "edge_type": "binds_to",
+      "ki_nm": 75,
+      "activity": "agonist",
+      "affinity_strength": "high"
+    },
+    {
+      "source": "substance:dmt",
+      "target": "receptor:5_ht2c",
+      "edge_type": "binds_to",
+      "ki_nm": 360,
+      "activity": "agonist",
+      "affinity_strength": "moderate"
+    },
+    {
+      "source": "substance:dmt",
+      "target": "receptor:sigma1",
+      "edge_type": "binds_to",
+      "ki_nm": 14000,
+      "activity": "agonist",
+      "affinity_strength": "very_low"
+    },
+    {
+      "source": "substance:mdma",
+      "target": "receptor:5_ht2a",
+      "edge_type": "binds_to",
+      "ki_nm": 5115,
+      "activity": "agonist",
+      "affinity_strength": "low"
+    },
+    {
+      "source": "substance:ketamine",
+      "target": "receptor:d2",
+      "edge_type": "binds_to",
+      "ki_nm": 2640,
+      "activity": "partial_agonist",
+      "affinity_strength": "low"
+    },
+    {
+      "source": "substance:ketamine",
+      "target": "receptor:mor",
+      "edge_type": "binds_to",
+      "ki_nm": 25000,
+      "activity": "agonist",
+      "affinity_strength": "very_low"
+    },
+    {
+      "source": "substance:ketamine",
+      "target": "receptor:sigma1",
+      "edge_type": "binds_to",
+      "ki_nm": 26000,
+      "activity": "agonist",
+      "affinity_strength": "very_low"
+    },
+    {
+      "source": "substance:salvinorin_a",
+      "target": "receptor:kor",
+      "edge_type": "binds_to",
+      "ki_nm": 1.9,
+      "activity": "full_agonist",
+      "affinity_strength": "very_high"
+    },
+    {
+      "source": "substance:mescaline",
+      "target": "receptor:5_ht2a",
+      "edge_type": "binds_to",
+      "ki_nm": 6200,
+      "activity": "partial_agonist",
+      "affinity_strength": "low"
+    },
+    {
+      "source": "substance:mescaline",
+      "target": "receptor:5_ht2b",
+      "edge_type": "binds_to",
+      "ki_nm": 870,
+      "activity": "partial_agonist",
+      "affinity_strength": "moderate"
+    },
+    {
+      "source": "substance:mescaline",
+      "target": "receptor:5_ht2c",
+      "edge_type": "binds_to",
+      "ki_nm": 1300,
+      "activity": "partial_agonist",
+      "affinity_strength": "low"
+    },
+    {
+      "source": "substance:thc",
+      "target": "receptor:cb1",
+      "edge_type": "binds_to",
+      "ki_nm": 40.7,
+      "activity": "partial_agonist",
+      "affinity_strength": "high"
+    }
+  ]
+}

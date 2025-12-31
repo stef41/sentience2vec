@@ -1,0 +1,44 @@
+{
+  "6WHA": {
+    "pdb_id": "6WHA",
+    "name": "5-HT2A",
+    "success": false,
+    "fragments": []
+  },
+  "5TVN": {
+    "pdb_id": "5TVN",
+    "name": "5-HT2B",
+    "success": false,
+    "fragments": []
+  },
+  "6CM4": {
+    "pdb_id": "6CM4",
+    "name": "D2",
+    "success": false,
+    "fragments": []
+  },
+  "5C1M": {
+    "pdb_id": "5C1M",
+    "name": "MOR",
+    "success": false,
+    "fragments": []
+  },
+  "4DJH": {
+    "pdb_id": "4DJH",
+    "name": "KOR",
+    "success": false,
+    "fragments": []
+  },
+  "5TGZ": {
+    "pdb_id": "5TGZ",
+    "name": "CB1",
+    "success": false,
+    "fragments": []
+  },
+  "4PE5": {
+    "pdb_id": "4PE5",
+    "name": "NMDA",
+    "success": false,
+    "fragments": []
+  }
+}

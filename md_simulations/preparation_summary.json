@@ -1,0 +1,110 @@
+{
+  "receptors": {
+    "5-HT2A": {
+      "status": "ready",
+      "pdb_id": "6WHA",
+      "description": "Serotonin 2A receptor",
+      "atoms": 1325,
+      "equilibrated_pdb": "prepared_receptors/5-HT2A/equilibrated.pdb",
+      "target_ligands": [
+        "LSD",
+        "psilocin",
+        "DMT",
+        "mescaline",
+        "MDMA"
+      ]
+    },
+    "5-HT2B": {
+      "status": "ready",
+      "pdb_id": "5TVN",
+      "description": "Serotonin 2B receptor",
+      "atoms": 1697,
+      "equilibrated_pdb": "prepared_receptors/5-HT2B/equilibrated.pdb",
+      "target_ligands": [
+        "MDMA"
+      ]
+    },
+    "D2": {
+      "status": "ready",
+      "pdb_id": "6CM4",
+      "description": "Dopamine D2 receptor",
+      "atoms": 1517,
+      "equilibrated_pdb": "prepared_receptors/D2/equilibrated.pdb",
+      "target_ligands": [
+        "LSD"
+      ]
+    },
+    "MOR": {
+      "status": "ready",
+      "pdb_id": "5C1M",
+      "description": "Mu opioid receptor",
+      "atoms": 4732,
+      "equilibrated_pdb": "prepared_receptors/MOR/equilibrated.pdb",
+      "target_ligands": [
+        "salvinorin_A"
+      ]
+    },
+    "KOR": {
+      "status": "ready",
+      "pdb_id": "4DJH",
+      "description": "Kappa opioid receptor",
+      "atoms": 3711,
+      "equilibrated_pdb": "prepared_receptors/KOR/equilibrated.pdb",
+      "target_ligands": [
+        "salvinorin_A"
+      ]
+    },
+    "CB1": {
+      "status": "ready",
+      "pdb_id": "5TGZ",
+      "description": "Cannabinoid receptor 1",
+      "atoms": 3304,
+      "equilibrated_pdb": "prepared_receptors/CB1/equilibrated.pdb",
+      "target_ligands": [
+        "THC"
+      ]
+    }
+  },
+  "ligands": {
+    "MDMA": {
+      "status": "ready",
+      "pdb": "ligands/MDMA/MDMA.pdb",
+      "atoms": 29
+    },
+    "THC": {
+      "status": "ready",
+      "pdb": "ligands/THC/THC.pdb",
+      "atoms": 53
+    },
+    "psilocin": {
+      "status": "ready",
+      "pdb": "ligands/psilocin/psilocin.pdb",
+      "atoms": 31
+    },
+    "DMT": {
+      "status": "ready",
+      "pdb": "ligands/DMT/DMT.pdb",
+      "atoms": 30
+    },
+    "LSD": {
+      "status": "ready",
+      "pdb": "ligands/LSD/LSD.pdb",
+      "atoms": 49
+    },
+    "ketamine": {
+      "status": "ready",
+      "pdb": "ligands/ketamine/ketamine.pdb",
+      "atoms": 32
+    },
+    "mescaline": {
+      "status": "ready",
+      "pdb": "ligands/mescaline/mescaline.pdb",
+      "atoms": 32
+    },
+    "salvinorin_A": {
+      "status": "ready",
+      "pdb": "ligands/salvinorin_A/salvinorin_A.pdb",
+      "atoms": 78
+    }
+  }
+}

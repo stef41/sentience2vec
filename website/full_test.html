@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Full Integration Test</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        body { padding: 20px; }
+        #test-output { background: #1a1a2e; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
+        .test-drug { display: inline-block; margin: 5px; padding: 10px 20px; background: #2a2a4e; border: 1px solid #4ecdc4; color: white; cursor: pointer; border-radius: 6px; }
+        .test-drug:hover { background: #3a3a6e; }
+    </style>
+</head>
+<body>
+    <h1>Full Integration Test</h1>
+    <div id="test-output"></div>
+    
+    <h2>Click a drug to test modal:</h2>
+    <div id="drug-list"></div>
+    
+    <!-- Modal for detailed view (same as main site) -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+    
+    <script src="data.js"></script>
+    <script src="gif_index.js"></script>
+    <script>
+        const output = document.getElementById('test-output');
+        
+        function log(msg, color='white') {
+            output.innerHTML += `<div style="color:${color}">${msg}</div>`;
+        }
+        
+        // Test 1: Check DATA
+        if (typeof DATA !== 'undefined' && DATA.drugs) {
+            log(`✅ DATA.drugs loaded: ${Object.keys(DATA.drugs).length} drugs`, '#4ecdc4');
+        } else {
+            log('❌ DATA.drugs not loaded!', 'red');
+        }
+        
+        // Test 2: Check GIF_INDEX
+        if (typeof GIF_INDEX !== 'undefined') {
+            log(`✅ GIF_INDEX loaded: ${Object.keys(GIF_INDEX).length} drugs`, '#4ecdc4');
+        } else {
+            log('❌ GIF_INDEX not loaded!', 'red');
+        }
+        
+        // Test 3: Show some test drugs
+        const testDrugs = ['DMT', 'LSD', 'MDMA', 'Psilocin', 'Ketamine', 'Cannabis'];
+        const drugList = document.getElementById('drug-list');
+        
+        testDrugs.forEach(name => {
+            if (DATA.drugs && DATA.drugs[name]) {
+                const btn = document.createElement('div');
+                btn.className = 'test-drug';
+                btn.textContent = name;
+                const hasGifs = GIF_INDEX && GIF_INDEX[name];
+                if (hasGifs) {
+                    btn.textContent += ` (${GIF_INDEX[name].length} GIFs)`;
+                }
+                btn.onclick = () => showDrugModal(name, DATA.drugs[name]);
+                drugList.appendChild(btn);
+            }
+        });
+        
+        function showDrugModal(name, drug) {
+            const modal = document.getElementById('modal');
+            const body = document.getElementById('modal-body');
+            
+            log(`Opening modal for: ${name}`, '#58a6ff');
+            
+            // Generate binding animations HTML
+            let animationsHtml = '<p style="color:orange">No GIFs found</p>';
+            
+            if (typeof GIF_INDEX !== 'undefined' && GIF_INDEX[name]) {
+                const gifData = GIF_INDEX[name];
+                log(`Found ${gifData.length} GIFs for ${name}`, '#4ecdc4');
+                
+                const gifItems = gifData.slice(0, 10).map((g, idx) => `
+                    <div class="gif-item ${idx === 0 ? 'active' : ''}" 
+                         data-gif="animations/${g.file}" 
+                         data-receptor="${g.receptor}"
+                         style="padding:8px 12px;background:#2a2a4e;border:1px solid #4ecdc4;margin:4px;cursor:pointer;display:inline-block;border-radius:4px">
+                        <span>${g.receptor}</span>
+                    </div>
+                `).join('');
+                
+                animationsHtml = `
+                    <div class="detail-section">
+                        <h4 style="color:#4ecdc4">Binding Animations (${gifData.length})</h4>
+                        <div class="gif-viewer">
+                            <div class="gif-display" style="background:#1a1a2e;padding:10px;border-radius:8px;text-align:center">
+                                <img id="current-gif" src="animations/${gifData[0].file}" alt="Binding animation" style="max-width:400px;border:2px solid #4ecdc4">
+                                <div class="gif-caption" style="margin-top:10px">
+                                    <span id="gif-receptor-name" style="color:#4ecdc4;font-weight:bold">${gifData[0].receptor}</span> receptor binding
+                                </div>
+                            </div>
+                            <div class="gif-selector" style="margin-top:15px">
+                                ${gifItems}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            } else {
+                log(`No GIFs found for ${name}`, 'orange');
+            }
+            
+            body.innerHTML = `
+                <h2 style="color:white">${name}</h2>
+                ${animationsHtml}
+            `;
+            
+            // Add event listeners
+            document.querySelectorAll('.gif-item').forEach(item => {
+                item.addEventListener('click', () => {
+                    document.querySelectorAll('.gif-item').forEach(i => {
+                        i.style.background = '#2a2a4e';
+                    });
+                    item.style.background = '#4ecdc4';
+                    document.getElementById('current-gif').src = item.dataset.gif;
+                    document.getElementById('gif-receptor-name').textContent = item.dataset.receptor;
+                    log(`Switched to: ${item.dataset.receptor}`, '#58a6ff');
+                });
+            });
+            
+            modal.classList.add('active');
+        }
+        
+        // Close modal
+        document.querySelector('.close').onclick = () => {
+            document.getElementById('modal').classList.remove('active');
+        };
+        document.getElementById('modal').onclick = (e) => {
+            if (e.target.id === 'modal') {
+                document.getElementById('modal').classList.remove('active');
+            }
+        };
+    </script>
+</body>
+</html>

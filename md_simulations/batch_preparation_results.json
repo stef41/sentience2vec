@@ -1,0 +1,38 @@
+{
+  "5-HT2A": {
+    "name": "5-HT2A",
+    "success": true,
+    "atoms": 47463,
+    "residues": 85,
+    "initial_energy": 10729.612696685828,
+    "minimized_energy": -765060.1997727966,
+    "equilibrated_energy": -608533.8815965271,
+    "time": 27.72610330581665,
+    "output_dir": "/data/users/zacharie/whc/consciousness_study/md_simulations/prepared_receptors/5-HT2A"
+  },
+  "5-HT2B": {
+    "name": "5-HT2B",
+    "success": false,
+    "error": "No template found for residue 105 (ALA).  The atoms and bonds in the residue match ALA, but the set of externally bonded atoms is missing 1 C atom.  Is the chain missing a terminal capping group?  For more information, see https://github.com/openmm/openmm/wiki/Frequently-Asked-Questions#template"
+  },
+  "D2": {
+    "name": "D2",
+    "success": false,
+    "error": "No template found for residue 96 (PRO).  The atoms and bonds in the residue match PRO, but the set of externally bonded atoms is missing 1 C atom.  Is the chain missing a terminal capping group?  For more information, see https://github.com/openmm/openmm/wiki/Frequently-Asked-Questions#template"
+  },
+  "MOR": {
+    "name": "MOR",
+    "success": false,
+    "error": "No template found for residue 291 (PHE).  The atoms and bonds in the residue match PHE, but the set of externally bonded atoms is missing 1 C atom.  Is the chain missing a terminal capping group?  For more information, see https://github.com/openmm/openmm/wiki/Frequently-Asked-Questions#template"
+  },
+  "KOR": {
+    "name": "KOR",
+    "success": false,
+    "error": "No template found for residue 229 (GLY).  The atoms and bonds in the residue match GLY, but the set of externally bonded atoms is missing 1 C atom.  Is the chain missing a terminal capping group?  For more information, see https://github.com/openmm/openmm/wiki/Frequently-Asked-Questions#template"
+  },
+  "CB1": {
+    "name": "CB1",
+    "success": false,
+    "error": "No template found for residue 203 (VAL).  The atoms and bonds in the residue match VAL, but the set of externally bonded atoms is missing 1 C atom.  Is the chain missing a terminal capping group?  For more information, see https://github.com/openmm/openmm/wiki/Frequently-Asked-Questions#template"
+  }
+}
