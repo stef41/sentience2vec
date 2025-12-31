@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-29T16:06:14.332062",
+  "completed": 21065,
+  "success": 19602,
+  "errors": 276,
+  "remaining": 5,
+  "rate_per_hour": 250.30213860848158,
+  "eta_hours": 0.019975858088136098
+}

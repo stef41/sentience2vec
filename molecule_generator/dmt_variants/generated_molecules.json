@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Generated_1",
+    "smiles": "CN(C)CCc1c[nH]c2ccccc12",
+    "score": 1.0000000000000002,
+    "qed": 0,
+    "lipinski_violations": 0,
+    "source": [
+      "DMT"
+    ],
+    "predicted_profile": {}
+  },
+  {
+    "name": "Generated_2",
+    "smiles": "CCCc1cc(OC)c(CCN)cc1OC",
+    "score": 0.9999980344156351,
+    "qed": 0,
+    "lipinski_violations": 0,
+    "source": [
+      "2C-P"
+    ],
+    "predicted_profile": {}
+  },
+  {
+    "name": "Generated_3",
+    "smiles": "CCCN(C=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "score": 0.9999980224547993,
+    "qed": 0,
+    "lipinski_violations": 0,
+    "source": [
+      "1P-LSD"
+    ],
+    "predicted_profile": {}
+  },
+  {
+    "name": "Generated_4",
+    "smiles": "Oc1cccc(C2(N3CCCCC3)CCCCC2)c1",
+    "score": 0.9999976792977039,
+    "qed": 0,
+    "lipinski_violations": 0,
+    "source": [
+      "3-HO-PCP"
+    ],
+    "predicted_profile": {}
+  },
+  {
+    "name": "Generated_5",
+    "smiles": "CNC(C)Cc1ccc2occc2c1",
+    "score": 0.9999976609842149,
+    "qed": 0,
+    "lipinski_violations": 0,
+    "source": [
+      "5-MAPB"
+    ],
+    "predicted_profile": {}
+  }
+]

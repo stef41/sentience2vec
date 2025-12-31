@@ -1,0 +1,291 @@
+[07:44:42] Tasks to run: 21000
+[07:44:42] Started worker on GPU 0
+[07:44:42] Started worker on GPU 1
+[07:44:42] Started worker on GPU 2
+[07:44:42] Started worker on GPU 3
+[07:44:42] Started worker on GPU 4
+[07:44:42] Started worker on GPU 5
+[07:44:42] Started worker on GPU 6
+[07:44:42] Started worker on GPU 7
+[07:44:48] [GPU2] ✓ 5-HT1A_5-MeO-DALT: Already done (5.5s)
+[07:44:48] [GPU3] ✓ 5-HT1A_5-MeO-DMT: Already done (5.5s)
+[07:44:48] [GPU5] ✓ 5-HT1A_5-MeO-DiBF: Already done (5.6s)
+[07:45:03] [GPU2] ✓ 5-HT1A_6-APDB: E: -55507 kJ/mol (15.0s)
+[07:45:04] [GPU1] ✓ 5-HT1A_5F-AKB48: E: -55391 kJ/mol (20.8s)
+[07:45:04] [GPU5] ✓ 5-HT1A_A-PHP: E: -55458 kJ/mol (15.6s)
+[07:45:04] [GPU0] ✓ 5-HT1A_6-APB: E: -55437 kJ/mol (21.2s)
+[07:45:04] [GPU4] ✓ 5-HT1A_5-MeO-DiPT: E: -55439 kJ/mol (21.5s)
+[07:45:04] [GPU3] ✓ 5-HT1A_8-Chlorotheophylline: E: -55615 kJ/mol (16.1s)
+[07:45:05] [GPU6] ✓ 5-HT1A_5-MeO-MiPT: E: -55537 kJ/mol (22.2s)
+[07:48:01] [GPU2] ✓ 5-HT1A_Flunitrazepam: E: -55600 kJ/mol (14.8s)
+[07:51:16] [GPU5] ✓ 5-HT1A_Prolintane: E: -55398 kJ/mol (15.7s)
+[07:54:32] [GPU3] ✓ 5-HT1B_5-APB: E: -48104 kJ/mol (17.5s)
+[07:57:50] [GPU6] ✓ 5-HT1B_Flualprazolam: E: -47786 kJ/mol (18.1s)
+[08:01:11] [GPU3] ✓ 5-HT1B_Promethazine: E: -47961 kJ/mol (15.9s)
+[08:01:11] Progress: 500/21000 (500 ok, 0 err) | Rate: 1820/hr | ETA: 11.3h
+[08:04:22] [GPU3] ✓ 5-HT1D_5-APB: E: -55541 kJ/mol (15.8s)
+[08:07:38] [GPU4] ✓ 5-HT1D_Flualprazolam: E: -55512 kJ/mol (16.8s)
+[08:10:50] [GPU0] ✓ 5-HT1D_Prolintane: E: -55336 kJ/mol (15.0s)
+[08:12:45] [GPU7] ✓ 5-HT1F_5,6-MDO-DMT: E: -55571 kJ/mol (7.3s)
+[08:14:17] [GPU6] ✓ 5-HT1F_Etizolam: E: -55476 kJ/mol (8.3s)
+[08:14:17] Progress: 1000/21000 (1000 ok, 0 err) | Rate: 2028/hr | ETA: 9.9h
+[08:15:50] [GPU2] ✓ 5-HT1F_Progesterone: E: -55418 kJ/mol (8.0s)
+[08:17:39] [GPU4] ✓ 5-HT2A_5-APB: E: -60114 kJ/mol (8.7s)
+[08:19:25] [GPU3] ✓ 5-HT2A_Fentanyl: E: -59921 kJ/mol (7.9s)
+[08:21:10] [GPU7] ✓ 5-HT2A_Pregabalin: E: -59925 kJ/mol (9.1s)
+[08:22:57] [GPU3] ✓ 5-HT2B_4-HO-MiPT: E: -48052 kJ/mol (9.1s)
+[08:22:57] Progress: 1500/21000 (1500 ok, 0 err) | Rate: 2353/hr | ETA: 8.3h
+[08:24:35] [GPU7] ✓ 5-HT2B_Ethylphenidate: E: -48224 kJ/mol (7.5s)
+[08:26:12] [GPU1] ✓ 5-HT2B_Poppers: E: -48052 kJ/mol (7.4s)
+[08:27:51] [GPU1] ✓ 5-HT2C_4-MeO-PCP: E: -49749 kJ/mol (7.3s)
+[08:29:23] [GPU0] ✓ 5-HT2C_Ethylone: E: -49805 kJ/mol (7.1s)
+[08:30:56] [GPU0] ✓ 5-HT2C_Phenibut: E: -49897 kJ/mol (7.9s)
+[08:30:56] Progress: 2000/21000 (2000 ok, 0 err) | Rate: 2595/hr | ETA: 7.3h
+[08:32:37] [GPU4] ✓ 5-HT3A_4-MeO-PCP: E: -64611 kJ/mol (7.6s)
+[08:34:17] [GPU0] ✓ 5-HT3A_Ethylmorphine: E: -64562 kJ/mol (7.6s)
+[08:36:01] [GPU1] ✓ 5-HT3A_Phenobarbital: E: -64653 kJ/mol (8.1s)
+[08:37:40] [GPU6] ✓ 5-HT4_4-HO-MiPT: E: -70905 kJ/mol (8.2s)
+[08:39:14] [GPU6] ✓ 5-HT4_Ethylmorphine: E: -70956 kJ/mol (7.7s)
+[08:39:14] Progress: 2500/21000 (2500 ok, 0 err) | Rate: 2750/hr | ETA: 6.7h
+[08:40:51] [GPU0] ✓ 5-HT4_Phenethylamine_(compound): E: -70911 kJ/mol (8.5s)
+[08:42:29] [GPU0] ✓ 5-HT6_4-HO-MPT: E: -71098 kJ/mol (6.8s)
+[08:44:06] [GPU0] ✓ 5-HT6_Ephylone: E: -71093 kJ/mol (8.3s)
+[08:45:42] [GPU4] ✓ 5-HT6_Pentobarbital: E: -70892 kJ/mol (8.0s)
+[08:47:20] [GPU1] ✓ 5-HT7_4-HO-MET: E: -71112 kJ/mol (5.9s)
+[08:47:20] Progress: 3000/21000 (3000 ok, 0 err) | Rate: 2874/hr | ETA: 6.3h
+[08:48:58] [GPU5] ✓ 5-HT7_Ephylone: E: -70882 kJ/mol (8.2s)
+[08:50:35] [GPU5] ✓ 5-HT7_Pethidine: E: -71002 kJ/mol (6.2s)
+[08:52:07] [GPU0] ✓ A1_4-HO-DiPT: E: -47141 kJ/mol (7.6s)
+[08:53:44] [GPU3] ✓ A1_Ephenidine: E: -47233 kJ/mol (7.6s)
+[08:55:17] [GPU7] ✓ A1_Pentedrone: E: -47206 kJ/mol (7.9s)
+[08:55:17] Progress: 3500/21000 (3500 ok, 0 err) | Rate: 2975/hr | ETA: 5.9h
+[08:56:49] [GPU3] ✓ A2A_4-HO-DET: E: -47974 kJ/mol (8.5s)
+[08:58:25] [GPU7] ✓ A2A_Ephedrine: E: -47778 kJ/mol (7.8s)
+[08:59:59] [GPU3] ✓ A2A_Peganum_harmala: E: -47948 kJ/mol (6.8s)
+[09:01:34] [GPU6] ✓ A2B_4-HO-DET: E: -49437 kJ/mol (6.5s)
+[09:03:07] [GPU1] ✓ A2B_Efavirenz: E: -49457 kJ/mol (6.7s)
+[09:03:07] Progress: 4000/21000 (4000 ok, 0 err) | Rate: 3060/hr | ETA: 5.6h
+[09:04:38] [GPU7] ✓ A2B_PRO-LAD: E: -49632 kJ/mol (7.7s)
+[09:06:12] [GPU6] ✓ A3_4-FMA: E: -32928 kJ/mol (7.0s)
+[09:07:42] [GPU4] ✓ A3_ETH-LAD: E: -32889 kJ/mol (7.6s)
+[09:09:15] [GPU6] ✓ A3_PMMA: E: -33007 kJ/mol (7.2s)
+[09:11:55] [GPU1] ✓ AMPA_GluA2_4-FMA: E: -126988 kJ/mol (16.4s)
+[09:11:55] Progress: 4500/21000 (4500 ok, 0 err) | Rate: 3096/hr | ETA: 5.3h
+[09:14:57] [GPU4] ✓ AMPA_GluA2_ETH-CAT: E: -126981 kJ/mol (14.9s)
+[09:17:56] [GPU0] ✓ AMPA_GluA2_PMA: E: -127302 kJ/mol (13.5s)
+[09:20:08] [GPU0] ✓ CB1_4-AcO-MiPT: E: -55310 kJ/mol (8.2s)
+nohup: ignoring input
+[09:21:32] Tasks to run: 16174
+[09:21:32] Started worker on GPU 0
+[09:21:32] Started worker on GPU 1
+[09:21:32] Started worker on GPU 2
+[09:21:32] Started worker on GPU 3
+[09:21:32] Started worker on GPU 4
+[09:21:32] Started worker on GPU 5
+[09:21:32] Started worker on GPU 6
+[09:21:32] Started worker on GPU 7
+[09:21:44] [GPU2] ✓ CB1_A-PVP: E: -55484 kJ/mol (10.9s)
+[09:21:46] [GPU1] ✓ CB1_A-PHP: E: -55506 kJ/mol (12.4s)
+[09:21:47] [GPU5] ✓ CB1_AL-LAD: E: -55536 kJ/mol (13.0s)
+[09:21:47] [GPU0] ✓ CB1_AB-FUBINACA: E: -55544 kJ/mol (13.3s)
+[09:21:47] [GPU6] ✓ CB1_APICA: E: -55595 kJ/mol (13.6s)
+[09:21:48] [GPU4] ✓ CB1_Acetylfentanyl: E: -55391 kJ/mol (13.8s)
+[09:21:49] [GPU3] ✓ CB1_ALD-52: E: -55462 kJ/mol (15.1s)
+[09:21:49] [GPU7] ✓ CB1_Acetylcholine: E: -55379 kJ/mol (15.1s)
+[09:21:51] [GPU2] ✓ CB1_Adrafinil: E: -55315 kJ/mol (6.8s)
+[09:21:54] [GPU1] ✓ CB1_Adrenaline: E: -55545 kJ/mol (8.0s)
+[09:23:24] [GPU4] ✓ CB1_Harmala_alkaloid: E: -55441 kJ/mol (8.0s)
+[09:25:05] [GPU7] ✓ CB1_Serotonin: E: -55184 kJ/mol (7.6s)
+[09:26:44] [GPU1] ✓ CB2_6-APDB: E: -58441 kJ/mol (7.9s)
+[09:28:23] [GPU4] ✓ CB2_Galantamine: E: -58373 kJ/mol (8.6s)
+[09:30:03] [GPU7] ✓ CB2_Secobarbital: E: -58605 kJ/mol (8.4s)
+[09:30:03] Progress: 500/16174 (500 ok, 0 err) | Rate: 3522/hr | ETA: 4.5h
+[09:31:37] [GPU0] ✓ D1_6-APB: E: -71543 kJ/mol (7.7s)
+[09:33:09] [GPU5] ✓ D1_Galantamine: E: -71591 kJ/mol (7.8s)
+[09:34:41] [GPU7] ✓ D1_Salvinorin_B_methoxymethyl_ether: E: -71549 kJ/mol (7.7s)
+[09:36:18] [GPU3] ✓ D2_6-APDB: E: -60468 kJ/mol (6.6s)
+[09:37:53] [GPU5] ✓ D2_Gaboxadol: E: -60495 kJ/mol (7.2s)
+[09:37:53] Progress: 1000/16174 (1000 ok, 0 err) | Rate: 3671/hr | ETA: 4.1h
+[09:39:31] [GPU1] ✓ D2_Salvia_divinorum: E: -60413 kJ/mol (7.9s)
+[09:41:11] [GPU2] ✓ D3_5F-AKB48: E: -59867 kJ/mol (7.7s)
+[09:42:50] [GPU5] ✓ D3_Gaboxadol: E: -59730 kJ/mol (7.6s)
+[09:44:28] [GPU2] ✓ D3_Salvinorin_A: E: -59753 kJ/mol (6.3s)
+[09:46:05] [GPU2] ✓ D4_5-MeO-MiPT: E: -52736 kJ/mol (7.9s)
+[09:46:05] Progress: 1500/16174 (1500 ok, 0 err) | Rate: 3667/hr | ETA: 4.0h
+[09:47:39] [GPU7] ✓ D4_GHB: E: -52730 kJ/mol (7.9s)
+[09:49:15] [GPU3] ✓ D4_STS-135: E: -52775 kJ/mol (7.6s)
+[09:50:49] [GPU6] ✓ D5_5-MeO-MiPT: E: -47047 kJ/mol (8.0s)
+[09:52:19] [GPU2] ✓ D5_GBL: E: -46811 kJ/mol (7.4s)
+[09:53:52] [GPU0] ✓ D5_SAM-e: E: -47028 kJ/mol (7.4s)
+[09:53:52] Progress: 2000/16174 (2000 ok, 0 err) | Rate: 3713/hr | ETA: 3.8h
+[09:55:33] [GPU6] ✓ DAT_5-MeO-DiBF: E: -58721 kJ/mol (8.1s)
+[09:57:18] [GPU4] ✓ DAT_GABA: E: -58684 kJ/mol (8.2s)
+[09:59:01] [GPU3] ✓ DAT_SAM-e: E: -58585 kJ/mol (8.8s)
+[10:00:40] [GPU3] ✓ DOR_5-MeO-DiBF: E: -53910 kJ/mol (7.8s)
+[10:02:12] [GPU6] ✓ DOR_Flunitrazolam: E: -53622 kJ/mol (7.8s)
+[10:02:12] Progress: 2500/16174 (2500 ok, 0 err) | Rate: 3689/hr | ETA: 3.7h
+[10:03:49] [GPU3] ✓ DOR_Pyrazolam: E: -53641 kJ/mol (7.1s)
+[10:05:32] [GPU2] ✓ GABA_A_alpha1_5-MeO-DALT: E: -63942 kJ/mol (8.5s)
+[10:07:18] [GPU2] ✓ GABA_A_alpha1_Flunitrazepam: E: -63994 kJ/mol (8.2s)
+[10:09:06] [GPU5] ✓ GABA_A_alpha1_Propylhexedrine: E: -63725 kJ/mol (8.0s)
+[10:10:43] [GPU3] ✓ GABA_A_alpha2_5-APB: E: -52121 kJ/mol (7.5s)
+[10:10:43] Progress: 3000/16174 (3000 ok, 0 err) | Rate: 3660/hr | ETA: 3.6h
+[10:12:19] [GPU1] ✓ GABA_A_alpha2_Flubromazolam: E: -51919 kJ/mol (7.4s)
+[10:13:53] [GPU1] ✓ GABA_A_alpha2_Propylhexedrine: E: -51912 kJ/mol (7.3s)
+[10:15:33] [GPU6] ✓ GABA_A_alpha3_5-Hydroxytryptophan: E: -63236 kJ/mol (8.3s)
+[10:17:13] [GPU0] ✓ GABA_A_alpha3_Flubromazepam: E: -63255 kJ/mol (7.3s)
+[10:18:53] [GPU3] ✓ GABA_A_alpha3_Promethazine: E: -62893 kJ/mol (8.7s)
+[10:18:53] Progress: 3500/16174 (3500 ok, 0 err) | Rate: 3663/hr | ETA: 3.5h
+[10:20:29] [GPU7] ✓ GABA_A_alpha5_5-APB: E: -38896 kJ/mol (7.1s)
+[10:22:08] [GPU7] ✓ GABA_A_alpha5_Flubromazepam: E: -39032 kJ/mol (7.7s)
+[10:23:43] [GPU5] ✓ GABA_A_alpha5_Poppers: E: -39079 kJ/mol (9.2s)
+[10:26:33] [GPU1] ✓ GABA_B_5-Hydroxytryptophan: E: -117536 kJ/mol (13.2s)
+[10:29:36] [GPU7] ✓ GABA_B_Flubromazepam: E: -117467 kJ/mol (13.1s)
+[10:29:36] Progress: 4000/16174 (4000 ok, 0 err) | Rate: 3527/hr | ETA: 3.5h
+[10:32:41] [GPU1] ✓ GABA_B_Progesterone: E: -117301 kJ/mol (13.3s)
+[10:34:45] [GPU1] ✓ H1_4F-MPH: E: -61599 kJ/mol (7.5s)
+[10:36:28] [GPU6] ✓ H1_Etizolam: E: -61531 kJ/mol (7.5s)
+[10:38:08] [GPU4] ✓ H1_Pregabalin: E: -61546 kJ/mol (7.4s)
+[10:39:44] [GPU1] ✓ H2_4F-EPH: E: -36976 kJ/mol (7.5s)
+[10:39:44] Progress: 4500/16174 (4500 ok, 0 err) | Rate: 3453/hr | ETA: 3.4h
+[10:41:17] [GPU5] ✓ H2_Fentanyl: E: -36972 kJ/mol (7.6s)
+[10:42:48] [GPU1] ✓ H2_Pregabalin: E: -37074 kJ/mol (6.2s)
+[10:44:27] [GPU7] ✓ H3_4-MeO-PCP: E: -51916 kJ/mol (8.0s)
+[10:46:06] [GPU7] ✓ H3_Ethylone: E: -51794 kJ/mol (8.5s)
+[10:47:40] [GPU5] ✓ H3_Phenobarbital: E: -52040 kJ/mol (6.3s)
+[10:47:40] Progress: 5000/16174 (5000 ok, 0 err) | Rate: 3483/hr | ETA: 3.2h
+[10:50:03] [GPU1] ✓ H4_4-HO-MPT: E: -115387 kJ/mol (12.5s)
+[10:52:33] [GPU3] ✓ H4_Ethylmorphine: E: -115603 kJ/mol (12.3s)
+[10:55:01] [GPU7] ✓ H4_Phenethylamine_(compound): E: -114917 kJ/mol (12.3s)
+[10:57:01] [GPU7] ✓ KOR_4-HO-MPT: E: -62819 kJ/mol (7.2s)
+[10:58:42] [GPU7] ✓ KOR_Ethylmorphine: E: -62725 kJ/mol (7.6s)
+[10:58:42] Progress: 5500/16174 (5500 ok, 0 err) | Rate: 3396/hr | ETA: 3.1h
+[11:00:19] [GPU1] ✓ KOR_Pethidine: E: -62790 kJ/mol (8.7s)
+[11:03:27] [GPU4] ✓ Kainate_GluK2_4-HO-MPT: E: -121384 kJ/mol (12.5s)
+[11:07:05] [GPU0] ✓ Kainate_GluK2_Ethylphenidate: E: -121507 kJ/mol (13.8s)
+[11:10:25] [GPU5] ✓ Kainate_GluK2_Pentedrone: E: -121338 kJ/mol (17.4s)
+[11:12:54] [GPU6] ✓ M1_4-HO-EPT: E: -38276 kJ/mol (6.6s)
+[11:12:54] Progress: 6000/16174 (6000 ok, 0 err) | Rate: 3233/hr | ETA: 3.1h
+[11:14:23] [GPU7] ✓ M1_Escaline: E: -38235 kJ/mol (6.7s)
+[11:15:55] [GPU3] ✓ M1_Pentobarbital: E: -38278 kJ/mol (6.5s)
+[11:17:31] [GPU4] ✓ M2_4-HO-DiPT: E: -45388 kJ/mol (6.8s)
+[11:19:08] [GPU2] ✓ M2_Ephedrine: E: -45436 kJ/mol (9.0s)
+[11:20:43] [GPU2] ✓ M2_Pentedrone: E: -45369 kJ/mol (8.2s)
+[11:20:43] Progress: 6500/16174 (6500 ok, 0 err) | Rate: 3273/hr | ETA: 3.0h
+[11:22:17] [GPU1] ✓ M3_4-HO-DiPT: E: -52793 kJ/mol (7.1s)
+[11:23:55] [GPU7] ✓ M3_Ephylone: E: -52723 kJ/mol (7.2s)
+[11:25:28] [GPU4] ✓ M3_PMA: E: -52991 kJ/mol (9.9s)
+[11:27:05] [GPU1] ✓ M4_4-HO-DiPT: E: -53512 kJ/mol (7.8s)
+[11:28:40] [GPU2] ✓ M4_Ephedrine: E: -53580 kJ/mol (7.4s)
+[11:28:40] Progress: 7000/16174 (7000 ok, 0 err) | Rate: 3304/hr | ETA: 2.8h
+[11:30:13] [GPU3] ✓ M4_PRO-LAD: E: -53350 kJ/mol (6.8s)
+[11:31:49] [GPU4] ✓ M5_4-FMA: E: -61847 kJ/mol (7.3s)
+[11:33:25] [GPU3] ✓ M5_Efavirenz: E: -61631 kJ/mol (7.2s)
+[11:34:59] [GPU5] ✓ M5_PMMA: E: -61783 kJ/mol (7.6s)
+[11:36:33] [GPU0] ✓ MOR_4-FA: E: -32941 kJ/mol (7.5s)
+[11:36:33] Progress: 7500/16174 (7500 ok, 0 err) | Rate: 3333/hr | ETA: 2.6h
+[11:38:04] [GPU6] ✓ MOR_ETH-CAT: E: -33236 kJ/mol (8.1s)
+[11:39:39] [GPU7] ✓ MOR_PMA: E: -33031 kJ/mol (8.2s)
+[11:41:19] [GPU7] ✓ MT1_4-AcO-MiPT: E: -63840 kJ/mol (8.1s)
+[11:43:01] [GPU7] ✓ MT1_ETH-LAD: E: -63990 kJ/mol (7.4s)
+[11:44:43] [GPU2] ✓ MT1_PCP: E: -63689 kJ/mol (7.9s)
+[11:44:43] Progress: 8000/16174 (8000 ok, 0 err) | Rate: 3352/hr | ETA: 2.4h
+[11:46:28] [GPU1] ✓ MT2_4-AcO-MET: E: -62638 kJ/mol (8.5s)
+[11:48:11] [GPU2] ✓ MT2_EPT: E: -62526 kJ/mol (10.0s)
+[11:50:01] [GPU5] ✓ MT2_PMA: E: -62604 kJ/mol (8.2s)
+[11:51:43] [GPU3] ✓ NET_4-AcO-DiPT: E: -57182 kJ/mol (8.6s)
+[11:53:25] [GPU6] ✓ NET_Dopamine: E: -57273 kJ/mol (8.4s)
+[11:53:25] Progress: 8500/16174 (8500 ok, 0 err) | Rate: 3358/hr | ETA: 2.3h
+[11:55:11] [GPU5] ✓ NET_Oxycodone: E: -57250 kJ/mol (9.5s)
+[11:57:45] [GPU0] ✓ NMDA_GluN2B_4-AcO-DMT: E: -110690 kJ/mol (16.2s)
+[12:01:25] [GPU4] ✓ NMDA_GluN2B_Dopamine: E: -110759 kJ/mol (20.2s)
+[12:04:42] [GPU4] ✓ NMDA_GluN2B_Oxymorphone: E: -110862 kJ/mol (15.9s)
+[12:07:11] [GPU6] ✓ NOP_3C-P: E: -56651 kJ/mol (8.0s)
+[12:07:11] Progress: 9000/16174 (9000 ok, 0 err) | Rate: 3260/hr | ETA: 2.2h
+[12:08:50] [GPU5] ✓ NOP_Diphenidine: E: -56869 kJ/mol (8.2s)
+[12:10:27] [GPU4] ✓ NOP_Oxycodone: E: -56786 kJ/mol (8.1s)
+[12:12:01] [GPU2] ✓ OX1_3-MeO-PCP: E: -36157 kJ/mol (7.7s)
+[12:13:32] [GPU4] ✓ OX1_Dihydrocodeine: E: -36082 kJ/mol (6.7s)
+[12:15:03] [GPU6] ✓ OX1_O-PCE: E: -36121 kJ/mol (8.0s)
+[12:15:03] Progress: 9500/16174 (9500 ok, 0 err) | Rate: 3285/hr | ETA: 2.0h
+[12:16:44] [GPU0] ✓ OX2_3C-P: E: -65901 kJ/mol (8.2s)
+[12:18:32] [GPU5] ✓ OX2_Diclazepam: E: -66023 kJ/mol (7.8s)
+[12:20:18] [GPU3] ✓ OX2_O-Desmethyltramadol: E: -65917 kJ/mol (7.8s)
+[12:22:17] [GPU6] ✓ SERT_3C-E: E: -68619 kJ/mol (8.9s)
+[12:24:24] [GPU2] ✓ SERT_Dichloropane: E: -68912 kJ/mol (10.3s)
+[12:24:24] Progress: 10000/16174 (10000 ok, 0 err) | Rate: 3281/hr | ETA: 1.9h
+[12:26:34] [GPU4] ✓ SERT_Nitrous: E: -69016 kJ/mol (11.8s)
+[12:28:23] [GPU2] ✓ Sigma1_3-MeO-PCP: E: -30644 kJ/mol (6.6s)
+[12:29:54] [GPU5] ✓ Sigma1_Dichloropane: E: -30796 kJ/mol (7.3s)
+[12:31:23] [GPU3] ✓ Sigma1_Nitrous: E: -30736 kJ/mol (6.9s)
+[12:32:56] [GPU6] ✓ Sigma2_3-MMC: E: -20271 kJ/mol (7.4s)
+[12:32:56] Progress: 10500/16174 (10500 ok, 0 err) | Rate: 3292/hr | ETA: 1.7h
+[12:34:25] [GPU3] ✓ Sigma2_DiPT: E: -20308 kJ/mol (7.2s)
+[12:35:58] [GPU5] ✓ Sigma2_Nitromethaqualone: E: -20481 kJ/mol (7.4s)
+[12:37:29] [GPU3] ✓ TAAR1_3-HO-PCP: E: -46142 kJ/mol (7.5s)
+[12:39:00] [GPU7] ✓ TAAR1_Dextromethorphan: E: -46044 kJ/mol (8.1s)
+[12:40:34] [GPU3] ✓ TAAR1_Nicotine: E: -46185 kJ/mol (7.6s)
+[12:40:34] Progress: 11000/16174 (11000 ok, 0 err) | Rate: 3316/hr | ETA: 1.6h
+[12:43:12] [GPU3] ✓ TRPV1_3-HO-PCP: E: -125052 kJ/mol (15.3s)
+[12:46:57] [GPU3] ✓ TRPV1_Desomorphine: E: -125291 kJ/mol (20.1s)
+[12:50:56] [GPU6] ✓ TRPV1_Nicotine: E: -125100 kJ/mol (13.5s)
+[12:53:38] [GPU7] ✓ VMAT2_3-HO-PCE: E: -39252 kJ/mol (7.6s)
+[12:55:10] [GPU0] ✓ VMAT2_Deschloroketamine: E: -39215 kJ/mol (8.6s)
+[12:55:10] Progress: 11500/16174 (11500 ok, 0 err) | Rate: 3230/hr | ETA: 1.4h
+[12:56:43] [GPU3] ✓ VMAT2_Nicotine: E: -39193 kJ/mol (7.6s)
+[12:58:15] [GPU7] ✓ alpha2A_3-FMA: E: -50611 kJ/mol (8.6s)
+[12:59:49] [GPU4] ✓ alpha2A_Desomorphine: E: -50588 kJ/mol (7.4s)
+[13:01:25] [GPU2] ✓ alpha2A_NEP: E: -50618 kJ/mol (8.3s)
+[13:02:59] [GPU5] ✓ alpha2B_3-FMA: E: -54159 kJ/mol (6.7s)
+[13:02:59] Progress: 12000/16174 (12000 ok, 0 err) | Rate: 3251/hr | ETA: 1.3h
+[13:04:30] [GPU3] ✓ alpha2B_Desomorphine: E: -54104 kJ/mol (7.5s)
+[13:06:06] [GPU0] ✓ alpha2B_NEP: E: -54166 kJ/mol (8.5s)
+[13:07:44] [GPU5] ✓ alpha2C_3-FEA: E: -62167 kJ/mol (9.2s)
+[13:09:21] [GPU6] ✓ alpha2C_Deschloroketamine: E: -62431 kJ/mol (7.0s)
+[13:11:02] [GPU1] ✓ alpha2C_NBx: E: -62338 kJ/mol (8.5s)
+[13:11:02] Progress: 12500/16174 (12500 ok, 0 err) | Rate: 3268/hr | ETA: 1.1h
+[13:12:38] [GPU5] ✓ beta1_2C-T-7: E: -67139 kJ/mol (10.5s)
+[13:14:17] [GPU2] ✓ beta1_Deschloroetizolam: E: -67010 kJ/mol (7.5s)
+[13:15:56] [GPU3] ✓ beta1_NBx: E: -67497 kJ/mol (7.8s)
+[13:17:34] [GPU1] ✓ beta2_2M2B: E: -63300 kJ/mol (7.3s)
+[13:19:07] [GPU0] ✓ beta2_Delta-8-THC: E: -63040 kJ/mol (7.6s)
+[13:19:07] Progress: 13000/16174 (13000 ok, 0 err) | Rate: 3283/hr | ETA: 1.0h
+[13:20:43] [GPU3] ✓ beta2_Myristicin: E: -63102 kJ/mol (7.7s)
+[13:22:19] [GPU6] ✓ beta3_3,4-CTMP: E: -71537 kJ/mol (7.8s)
+[13:23:53] [GPU7] ✓ beta3_DOx: E: -71577 kJ/mol (8.1s)
+[13:25:28] [GPU6] ✓ beta3_N-Acetylcysteine: E: -71553 kJ/mol (6.4s)
+[13:27:08] [GPU5] ✓ mGluR1_2C-T-7: E: -42976 kJ/mol (8.1s)
+[13:27:08] Progress: 13500/16174 (13500 ok, 0 err) | Rate: 3298/hr | ETA: 0.8h
+[13:28:40] [GPU6] ✓ mGluR1_Datura: E: -42968 kJ/mol (7.5s)
+[13:30:15] [GPU5] ✓ mGluR1_Morphine: E: -42968 kJ/mol (8.3s)
+[13:31:48] [GPU4] ✓ mGluR3_3,4-CTMP: E: -26816 kJ/mol (5.8s)
+[13:33:21] [GPU1] ✓ mGluR3_DOM: E: -26090 kJ/mol (7.9s)
+[13:34:53] [GPU0] ✓ mGluR3_Mirtazapine: E: -26242 kJ/mol (8.2s)
+[13:34:53] Progress: 14000/16174 (14000 ok, 0 err) | Rate: 3316/hr | ETA: 0.7h
+[13:36:26] [GPU4] ✓ mGluR4_2C-T-2: E: -55500 kJ/mol (7.0s)
+[13:38:00] [GPU0] ✓ mGluR4_DOM: E: -55656 kJ/mol (7.7s)
+[13:39:35] [GPU6] ✓ mGluR4_Morphine: E: -55424 kJ/mol (7.4s)
+[13:41:36] [GPU1] ✓ mGluR5_2C-P: E: -113364 kJ/mol (14.3s)
+[13:44:32] [GPU5] ✓ mGluR5_DOM: E: -113597 kJ/mol (12.4s)
+[13:44:32] Progress: 14500/16174 (14500 ok, 0 err) | Rate: 3308/hr | ETA: 0.5h
+[13:47:35] [GPU0] ✓ mGluR5_MiPT: E: -113214 kJ/mol (16.7s)
+[13:50:27] [GPU5] ✓ mGluR7_2C-I: E: -118058 kJ/mol (11.8s)
+[13:53:11] [GPU0] ✓ mGluR7_DOB: E: -118135 kJ/mol (16.7s)
+[13:55:45] [GPU1] ✓ mGluR7_Midazolam: E: -118008 kJ/mol (11.3s)
+[13:58:00] [GPU6] ✓ nAChR_alpha3beta4_2C-P: E: -45939 kJ/mol (7.0s)
+[13:58:00] Progress: 15000/16174 (15000 ok, 0 err) | Rate: 3255/hr | ETA: 0.4h
+[13:59:37] [GPU6] ✓ nAChR_alpha3beta4_DOB: E: -45891 kJ/mol (7.5s)
+[14:01:11] [GPU4] ✓ nAChR_alpha3beta4_MiPLA: E: -46148 kJ/mol (7.8s)
+[14:02:52] [GPU1] ✓ nAChR_alpha4beta2_2C-T: E: -50973 kJ/mol (7.3s)
+[14:04:29] [GPU5] ✓ nAChR_alpha4beta2_DMT: E: -50894 kJ/mol (8.1s)
+[14:06:08] [GPU5] ✓ nAChR_alpha4beta2_Mexedrone: E: -50780 kJ/mol (6.9s)
+[14:06:08] Progress: 15500/16174 (15500 ok, 0 err) | Rate: 3268/hr | ETA: 0.2h
+[14:07:44] [GPU2] ✓ nAChR_alpha7_2C-E: E: -49990 kJ/mol (8.0s)
+[14:09:21] [GPU6] ✓ nAChR_alpha7_Creatine: E: -50085 kJ/mol (9.1s)
+[14:10:59] [GPU0] ✓ nAChR_alpha7_Metizolam: E: -50036 kJ/mol (7.2s)
+[14:12:37] [GPU1] ✓ nAChR_muscle_2C-D: E: -53455 kJ/mol (7.3s)
+[14:14:13] [GPU3] ✓ nAChR_muscle_Cyclazodone: E: -53362 kJ/mol (9.0s)
+[14:14:13] Progress: 16000/16174 (16000 ok, 0 err) | Rate: 3280/hr | ETA: 0.1h
+[14:15:51] [GPU4] ✓ nAChR_muscle_Methylphenidate: E: -53464 kJ/mol (7.9s)
+[14:17:04] 
+Done! Success: 16174, Errors: 0

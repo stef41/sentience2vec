@@ -1,0 +1,106 @@
+[
+  {
+    "pair": "5-HT2A_DMT",
+    "ligand": "DMT",
+    "valid": true,
+    "pocket_score": 80,
+    "features": [
+      "Asp (salt bridge)",
+      "Ser (H-bond)",
+      "2xPhe (aromatic cage)",
+      "Good pocket occupancy"
+    ],
+    "nearby_count": 8
+  },
+  {
+    "pair": "5-HT2A_LSD",
+    "ligand": "LSD",
+    "valid": true,
+    "pocket_score": 55,
+    "features": [
+      "Asp (salt bridge)",
+      "2xPhe (aromatic cage)"
+    ],
+    "nearby_count": 7
+  },
+  {
+    "pair": "5-HT2A_Psilocin",
+    "ligand": "Psilocin",
+    "valid": true,
+    "pocket_score": 70,
+    "features": [
+      "Asp (salt bridge)",
+      "Ser (H-bond)",
+      "2xPhe (aromatic cage)"
+    ],
+    "nearby_count": 7
+  },
+  {
+    "pair": "5-HT2A_Mescaline",
+    "ligand": "Mescaline",
+    "valid": true,
+    "pocket_score": 70,
+    "features": [
+      "Asp (salt bridge)",
+      "Ser (H-bond)",
+      "2xPhe (aromatic cage)"
+    ],
+    "nearby_count": 7
+  },
+  {
+    "pair": "5-HT2A_2C-B",
+    "ligand": "2C-B",
+    "valid": true,
+    "pocket_score": 70,
+    "features": [
+      "Asp (salt bridge)",
+      "Ser (H-bond)",
+      "2xPhe (aromatic cage)"
+    ],
+    "nearby_count": 7
+  },
+  {
+    "pair": "D2_LSD",
+    "ligand": "LSD",
+    "valid": false,
+    "pocket_score": 25,
+    "features": [
+      "Asp (salt bridge)"
+    ],
+    "nearby_count": 6
+  },
+  {
+    "pair": "SERT_MDMA",
+    "ligand": "MDMA",
+    "valid": true,
+    "pocket_score": 50,
+    "features": [
+      "Asp (salt bridge)",
+      "Ser (H-bond)",
+      "Good pocket occupancy"
+    ],
+    "nearby_count": 9
+  },
+  {
+    "pair": "CB1_THC-O-acetate",
+    "ligand": "THC-O",
+    "valid": false,
+    "pocket_score": 45,
+    "features": [
+      "Ser (H-bond)",
+      "4xPhe (aromatic cage)"
+    ],
+    "nearby_count": 7
+  },
+  {
+    "pair": "MOR_Morphine",
+    "ligand": "Morphine",
+    "valid": false,
+    "pocket_score": 35,
+    "features": [
+      "Asp (salt bridge)",
+      "Good pocket occupancy"
+    ],
+    "nearby_count": 8
+  }
+]

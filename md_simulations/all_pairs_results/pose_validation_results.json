@@ -1,0 +1,417 @@
+{
+  "5-HT2A_DMT": {
+    "valid": false,
+    "overlap_score": 0.4444444444444444,
+    "found_residues": [
+      "Ser242",
+      "Trp336",
+      "Phe339",
+      "Phe340"
+    ],
+    "missing_residues": [
+      "Asp155",
+      "Ser159",
+      "Thr160",
+      "Asn343",
+      "Tyr370"
+    ],
+    "ligand_atoms": 14,
+    "nearby_residues": 42,
+    "ligand_center": [
+      -9.232571428571429,
+      -0.161,
+      4.981499999999999
+    ]
+  },
+  "5-HT2A_LSD": {
+    "valid": false,
+    "overlap_score": 0.4444444444444444,
+    "found_residues": [
+      "Ser242",
+      "Trp336",
+      "Phe339",
+      "Phe340"
+    ],
+    "missing_residues": [
+      "Asp155",
+      "Ser159",
+      "Thr160",
+      "Asn343",
+      "Tyr370"
+    ],
+    "ligand_atoms": 24,
+    "nearby_residues": 36,
+    "ligand_center": [
+      10.073916666666666,
+      -0.08304166666666672,
+      -2.0457500000000004
+    ]
+  },
+  "5-HT2A_Psilocin": {
+    "valid": false,
+    "overlap_score": 0.4444444444444444,
+    "found_residues": [
+      "Ser242",
+      "Trp336",
+      "Phe339",
+      "Phe340"
+    ],
+    "missing_residues": [
+      "Asp155",
+      "Ser159",
+      "Thr160",
+      "Asn343",
+      "Tyr370"
+    ],
+    "ligand_atoms": 15,
+    "nearby_residues": 40,
+    "ligand_center": [
+      -6.5186666666666655,
+      -5.896866666666667,
+      1.0713333333333337
+    ]
+  },
+  "5-HT2A_Mescaline": {
+    "valid": false,
+    "overlap_score": 0.4444444444444444,
+    "found_residues": [
+      "Ser242",
+      "Trp336",
+      "Phe339",
+      "Phe340"
+    ],
+    "missing_residues": [
+      "Asp155",
+      "Ser159",
+      "Thr160",
+      "Asn343",
+      "Tyr370"
+    ],
+    "ligand_atoms": 15,
+    "nearby_residues": 40,
+    "ligand_center": [
+      3.6673333333333336,
+      8.786200000000001,
+      0.0034000000000000102
+    ]
+  },
+  "5-HT2A_2C-B": {
+    "valid": false,
+    "overlap_score": 0.4444444444444444,
+    "found_residues": [
+      "Ser242",
+      "Trp336",
+      "Phe339",
+      "Phe340"
+    ],
+    "missing_residues": [
+      "Asp155",
+      "Ser159",
+      "Thr160",
+      "Asn343",
+      "Tyr370"
+    ],
+    "ligand_atoms": 14,
+    "nearby_residues": 41,
+    "ligand_center": [
+      -6.5985000000000005,
+      -5.865642857142857,
+      1.3659285714285712
+    ]
+  },
+  "5-HT2A_MDMA": {
+    "valid": false,
+    "overlap_score": 0.4444444444444444,
+    "found_residues": [
+      "Ser242",
+      "Trp336",
+      "Phe339",
+      "Phe340"
+    ],
+    "missing_residues": [
+      "Asp155",
+      "Ser159",
+      "Thr160",
+      "Asn343",
+      "Tyr370"
+    ],
+    "ligand_atoms": 14,
+    "nearby_residues": 42,
+    "ligand_center": [
+      -6.325571428571429,
+      -5.937142857142858,
+      1.3507857142857145
+    ]
+  },
+  "5-HT2A_5-MeO-DMT": {
+    "valid": false,
+    "overlap_score": 0.4444444444444444,
+    "found_residues": [
+      "Ser242",
+      "Trp336",
+      "Phe339",
+      "Phe340"
+    ],
+    "missing_residues": [
+      "Asp155",
+      "Ser159",
+      "Thr160",
+      "Asn343",
+      "Tyr370"
+    ],
+    "ligand_atoms": 16,
+    "nearby_residues": 41,
+    "ligand_center": [
+      -10.427875,
+      -5.599125000000001,
+      2.058375
+    ]
+  },
+  "5-HT2B_DMT": {
+    "valid": true,
+    "overlap_score": 0.6666666666666666,
+    "found_residues": [
+      "Ser139",
+      "Trp337",
+      "Phe340",
+      "Phe341"
+    ],
+    "missing_residues": [
+      "Asp135",
+      "Ser222"
+    ],
+    "ligand_atoms": 14,
+    "nearby_residues": 38,
+    "ligand_center": [
+      -7.799857142857142,
+      4.007857142857143,
+      -17.71657142857143
+    ]
+  },
+  "5-HT2B_LSD": {
+    "valid": true,
+    "overlap_score": 0.5,
+    "found_residues": [
+      "Trp337",
+      "Phe340",
+      "Phe341"
+    ],
+    "missing_residues": [
+      "Asp135",
+      "Ser139",
+      "Ser222"
+    ],
+    "ligand_atoms": 24,
+    "nearby_residues": 37,
+    "ligand_center": [
+      -4.308624999999998,
+      6.641916666666667,
+      -20.202
+    ]
+  },
+  "5-HT1A_DMT": {
+    "valid": false,
+    "overlap_score": 0.0,
+    "found_residues": [],
+    "missing_residues": [
+      "Asp116",
+      "Ser199",
+      "Trp358",
+      "Phe361",
+      "Phe362"
+    ],
+    "ligand_atoms": 14,
+    "nearby_residues": 20,
+    "ligand_center": [
+      -4.408428571428572,
+      8.357928571428571,
+      -15.658999999999997
+    ]
+  },
+  "5-HT1A_LSD": {
+    "valid": false,
+    "overlap_score": 0.0,
+    "found_residues": [],
+    "missing_residues": [
+      "Asp116",
+      "Ser199",
+      "Trp358",
+      "Phe361",
+      "Phe362"
+    ],
+    "ligand_atoms": 24,
+    "nearby_residues": 17,
+    "ligand_center": [
+      -5.432000000000001,
+      9.286666666666665,
+      -16.058541666666667
+    ]
+  },
+  "D2_LSD": {
+    "valid": true,
+    "overlap_score": 0.5714285714285714,
+    "found_residues": [
+      "Trp386",
+      "Phe389",
+      "Phe390",
+      "His393"
+    ],
+    "missing_residues": [
+      "Asp114",
+      "Ser193",
+      "Ser194"
+    ],
+    "ligand_atoms": 24,
+    "nearby_residues": 32,
+    "ligand_center": [
+      -26.36404166666667,
+      -7.373416666666667,
+      -0.9297916666666667
+    ]
+  },
+  "D2_DMT": {
+    "valid": true,
+    "overlap_score": 0.5714285714285714,
+    "found_residues": [
+      "Trp386",
+      "Phe389",
+      "Phe390",
+      "His393"
+    ],
+    "missing_residues": [
+      "Asp114",
+      "Ser193",
+      "Ser194"
+    ],
+    "ligand_atoms": 14,
+    "nearby_residues": 40,
+    "ligand_center": [
+      21.419714285714285,
+      5.109857142857144,
+      -8.269214285714286
+    ]
+  },
+  "D2_Dopamine": {
+    "valid": true,
+    "overlap_score": 0.5714285714285714,
+    "found_residues": [
+      "Trp386",
+      "Phe389",
+      "Phe390",
+      "His393"
+    ],
+    "missing_residues": [
+      "Asp114",
+      "Ser193",
+      "Ser194"
+    ],
+    "ligand_atoms": 11,
+    "nearby_residues": 43,
+    "ligand_center": [
+      22.841272727272727,
+      6.281545454545455,
+      -10.095636363636363
+    ]
+  },
+  "MOR_Morphine": {
+    "valid": false,
+    "overlap_score": 0.4,
+    "found_residues": [
+      "Asp147",
+      "Tyr148"
+    ],
+    "missing_residues": [
+      "Trp293",
+      "His297",
+      "Tyr326"
+    ],
+    "ligand_atoms": 21,
+    "nearby_residues": 32,
+    "ligand_center": [
+      2.328333333333334,
+      -9.365285714285715,
+      5.1538095238095245
+    ]
+  },
+  "MOR_Fentanyl": {
+    "valid": false,
+    "overlap_score": 0.4,
+    "found_residues": [
+      "Asp147",
+      "Tyr148"
+    ],
+    "missing_residues": [
+      "Trp293",
+      "His297",
+      "Tyr326"
+    ],
+    "ligand_atoms": 25,
+    "nearby_residues": 35,
+    "ligand_center": [
+      6.069679999999997,
+      -7.90232,
+      8.003919999999999
+    ]
+  },
+  "CB1_THC-O-acetate": {
+    "valid": true,
+    "overlap_score": 0.6666666666666666,
+    "found_residues": [
+      "Phe170",
+      "Phe174",
+      "Phe177",
+      "Phe189"
+    ],
+    "missing_residues": [
+      "Trp279",
+      "Trp356"
+    ],
+    "ligand_atoms": 26,
+    "nearby_residues": 37,
+    "ligand_center": [
+      -2.5625769230769233,
+      16.22526923076923,
+      -18.549000000000003
+    ]
+  },
+  "SERT_MDMA": {
+    "valid": true,
+    "overlap_score": 1.0,
+    "found_residues": [
+      "Asp98",
+      "Tyr95",
+      "Ile172",
+      "Phe335",
+      "Ser336",
+      "Phe341"
+    ],
+    "missing_residues": [],
+    "ligand_atoms": 14,
+    "nearby_residues": 46,
+    "ligand_center": [
+      1.2812857142857144,
+      5.967428571428571,
+      -3.491785714285714
+    ]
+  },
+  "SERT_Serotonin": {
+    "valid": true,
+    "overlap_score": 1.0,
+    "found_residues": [
+      "Asp98",
+      "Tyr95",
+      "Ile172",
+      "Phe335",
+      "Ser336",
+      "Phe341"
+    ],
+    "missing_residues": [],
+    "ligand_atoms": 13,
+    "nearby_residues": 46,
+    "ligand_center": [
+      4.283307692307693,
+      2.38576923076923,
+      1.2730769230769228
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "status": "error",
+  "system": "MOR_salvinorin_A",
+  "message": "No template found for residue 216 (LYS).  The set of heavy atoms matches ALA, but the residue is missing 1 H atom.  You may be able to add it with Modeller.addHydrogens().  For more information, see https://github.com/openmm/openmm/wiki/Frequently-Asked-Questions#template",
+  "elapsed_time_s": 0.5505180358886719
+}

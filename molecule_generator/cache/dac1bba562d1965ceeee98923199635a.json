@@ -1,0 +1,12 @@
+{
+  "smiles": "COc1ccc2[nH]cc(CCN(C(C)C)C(C)C)c2c1",
+  "receptor": "5-HT2A",
+  "binding_energy_kJ": -60203.784187316895,
+  "initial_energy_kJ": 26936.06446838379,
+  "minimized_energy_kJ": -60203.784187316895,
+  "pose_confidence": 0.5,
+  "success": true,
+  "error": null,
+  "cached": false,
+  "timestamp": "2025-12-31T12:53:02.888180"
+}

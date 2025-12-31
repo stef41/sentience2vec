@@ -1,0 +1,72 @@
+{
+  "dac1bba562d1965ceeee98923199635a": {
+    "smiles": "COc1ccc2[nH]cc(CCN(C(C)C)C(C)C)c2c1",
+    "receptor": "5-HT2A",
+    "energy": -60203.784187316895,
+    "success": true,
+    "timestamp": "2025-12-31T12:53:02.888180"
+  },
+  "4c6e869492599a4c8d307807876800d8": {
+    "smiles": "CN(C)CCc1c[nH]c2ccccc12",
+    "receptor": "5-HT2A",
+    "energy": -60005.51403808594,
+    "success": true,
+    "timestamp": "2025-12-31T12:57:11.833942"
+  },
+  "286725d74747dde2f00f284020ee1780": {
+    "smiles": "CN(C)CCc1c[nH]c2ccccc12",
+    "receptor": "5-HT2B",
+    "energy": -48153.33282470703,
+    "success": true,
+    "timestamp": "2025-12-31T12:59:01.470639"
+  },
+  "d8312555a7d746bb2e2538287d42ba34": {
+    "smiles": "CN(C)CCc1c[nH]c2ccccc12",
+    "receptor": "5-HT2C",
+    "energy": -49944.09313201904,
+    "success": true,
+    "timestamp": "2025-12-31T13:00:50.443285"
+  },
+  "5821a63d63a1d429dd184a926b961054": {
+    "smiles": "CCCc1cc(OC)c(CCN)cc1OC",
+    "receptor": "5-HT2A",
+    "energy": -60045.027770996094,
+    "success": true,
+    "timestamp": "2025-12-31T13:03:20.287695"
+  },
+  "c76b2fe93eb278bc4fb1023cba89be2f": {
+    "smiles": "CCCc1cc(OC)c(CCN)cc1OC",
+    "receptor": "5-HT2B",
+    "energy": -48125.92787361145,
+    "success": true,
+    "timestamp": "2025-12-31T13:05:02.991355"
+  },
+  "498bf5473fcf1114e72cf547fc49ee15": {
+    "smiles": "CCCc1cc(OC)c(CCN)cc1OC",
+    "receptor": "5-HT2C",
+    "energy": -49991.37059020996,
+    "success": true,
+    "timestamp": "2025-12-31T13:06:51.937838"
+  },
+  "25e139d1134602007bac74db26783898": {
+    "smiles": "CCCN(C=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "receptor": "5-HT2A",
+    "energy": -60046.39440917969,
+    "success": true,
+    "timestamp": "2025-12-31T13:09:23.617820"
+  },
+  "862ca4ab46287194ff47a8be35f98363": {
+    "smiles": "CCCN(C=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "receptor": "5-HT2B",
+    "energy": -48137.09676551819,
+    "success": true,
+    "timestamp": "2025-12-31T13:11:04.621841"
+  },
+  "7653cfee8ae8ae3fe3539ffb9355c505": {
+    "smiles": "CCCN(C=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+    "receptor": "5-HT2C",
+    "energy": -49960.256088256836,
+    "success": true,
+    "timestamp": "2025-12-31T13:12:44.818319"
+  }
+}

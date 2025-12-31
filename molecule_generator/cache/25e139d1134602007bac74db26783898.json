@@ -1,0 +1,12 @@
+{
+  "smiles": "CCCN(C=O)[C@@H]1C=C2c3cccc4[nH]cc(c34)C[C@H]2N(C)C1",
+  "receptor": "5-HT2A",
+  "binding_energy_kJ": -60046.39440917969,
+  "initial_energy_kJ": 51151.16395568848,
+  "minimized_energy_kJ": -60046.39440917969,
+  "pose_confidence": 0.5,
+  "success": true,
+  "error": null,
+  "cached": false,
+  "timestamp": "2025-12-31T13:09:23.617820"
+}

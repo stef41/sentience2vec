@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Generated_1",
+    "smiles": "COc1ccc2[nH]cc(CCN(C(C)C)C(C)C)c2c1",
+    "score": 0.9717374938593484,
+    "qed": 0,
+    "lipinski_violations": 0,
+    "source": [
+      "5-MeO-DiPT"
+    ],
+    "predicted_profile": {},
+    "docked_profile": {
+      "5-HT2A": -60203.784187316895
+    }
+  }
+]
